@@ -52,18 +52,22 @@ def getData(file):
     formatted = year + "-" + monthMatch(month)
 
     #reusable function that takes in the number of the worksheet and reads the generated CSV from the function above.
-    def readCSV(number):
+    def readCSV(number): 
             with open("{}.csv".format(number), 'r') as csv_file:
                 csv_reader = csv.reader(csv_file, dialect="excel")
                 if wp.active == wp1:
+                    process = True
                     for line in csv_reader:
-                        if line[0][0:7] == formatted:
-                            print("sucess")
+                        if line[0][0:7] == formatted: 
                             for x in line:
                                 if x != '' or 0:
                                     logging.info(x)
+                            if process:
+                                logging.info('Sheet one finished processing')
+                                process = False
                     
                 if wp.active == wp2:
+                    process = True
                     index = 0
                     for line,ele in enumerate(csv_reader):
                         if line == 0:
@@ -73,14 +77,21 @@ def getData(file):
                         if index != 0:
                             logging.info(ele[index])
                             print(ele[index])
+                            if process:
+                                logging.info('Sheet two finished processing')
+                                process = False
                         else:
                             logging.info('No data on sheet 2')
                             break
                 if wp.active == wp3:
+                    process = True
                     for line in csv_reader:
                         if line[0][0:7] == formatted:
                             for x in line:
                                 logging.info(x)
+                                if process:
+                                    logging.info('Sheet three finished processing')
+                                    process = False
 
     #Iterates for each workpage, reads and uploads the info to the log file.        
     if wp.active == wp1:

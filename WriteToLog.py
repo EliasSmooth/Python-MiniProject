@@ -19,7 +19,7 @@ logging.basicConfig(filename='app.txt',
 
 #Creates the CSV file needed for reading
 def writeCSV(sheet, name):
-    with open('{}.csv'.format(name), 'w', newline="") as file_handle:
+    with open('./csv/{}.csv'.format(name), 'w', newline="") as file_handle:
         csv_writer = csv.writer(file_handle)
         for row in sheet.iter_rows():
             try: 
@@ -53,8 +53,9 @@ def getData(file):
 
     #reusable function that takes in the number of the worksheet and reads the generated CSV from the function above.
     def readCSV(number): 
-            with open("{}.csv".format(number), 'r') as csv_file:
+            with open("./csv/{}.csv".format(number), 'r') as csv_file:
                 csv_reader = csv.reader(csv_file, dialect="excel")
+                
                 if wp.active == wp1:
                     process = True
                     for line in csv_reader:
@@ -67,7 +68,6 @@ def getData(file):
                                 process = False
                     
                 if wp.active == wp2:
-                    process = True
                     index = 0
                     for line,ele in enumerate(csv_reader):
                         if line == 0:
@@ -76,39 +76,40 @@ def getData(file):
                                     index = item  
                         if index != 0:
                             logging.info(ele[index])
-                            print(ele[index])
-                            if process:
-                                logging.info('Sheet two finished processing')
-                                process = False
                         else:
                             logging.info('No data on sheet 2')
                             break
+
                 if wp.active == wp3:
-                    process = True
                     for line in csv_reader:
                         if line[0][0:7] == formatted:
                             for x in line:
                                 logging.info(x)
-                                if process:
-                                    logging.info('Sheet three finished processing')
-                                    process = False
 
     #Iterates for each workpage, reads and uploads the info to the log file.        
     if wp.active == wp1:
         writeCSV(wp1, "1")
+        logging.debug('Sheet 1: Date, Call Count, "%" of abandons after 30s, "%" FCR, "%" DSAT, "%" CSAT')
         readCSV("1")
+        logging.debug('')
 
     wp.active = wp2 
 
     if wp.active == wp2:
         writeCSV(wp2, "2")
+        logging.debug('Sheet 2: Base Size, Promoters (number and percentage), Passives (number and percentage), Dectractors (number and percentage), AARP total "%" for (NPS"%", Agent"%", DSAT"%"')
         readCSV("2")
+        logging.info('Sheet two finished processing')
+        logging.debug('')
 
     wp.active = wp3
  
     if wp.active == wp3:
         writeCSV(wp3, "3")
+        logging.debug('Sheet 3: Date, Itinerary Number, Additional feedback')
         readCSV("3")
+        logging.info('Sheet three finished processing')
+        logging.debug('')
     
 #Iterates through all files and runs the program
 for file in files:

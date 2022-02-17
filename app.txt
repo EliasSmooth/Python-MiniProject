@@ -1,0 +1,2115 @@
+15:19:44,539 root DEBUG Sheet 1: Date, Call Count, "%" of abandons after 30s, "%" FCR, "%" DSAT, "%" CSAT
+15:19:44,547 root INFO 2018-03-18 00:00:00
+15:19:44,547 root INFO 22343
+15:19:44,547 root INFO 0.0305
+15:19:44,547 root INFO 0.86
+15:19:44,547 root INFO 0.18
+15:19:44,547 root INFO 0.744
+15:19:44,547 root INFO Sheet one finished processing
+15:19:44,548 root DEBUG 
+15:19:44,558 root DEBUG Sheet 2: Base Size, Promoters (number and percentage), Passives (number and percentage), Dectractors (number and percentage), AARP total "%" for (NPS"%", Agent"%", DSAT"%"
+15:19:44,559 root INFO No data on sheet 2
+15:19:44,560 root INFO Sheet two finished processing
+15:19:44,560 root DEBUG 
+15:19:44,578 root DEBUG Sheet 3: Date, Itinerary Number, Additional feedback
+15:19:44,583 root INFO 2018-03-01 11:35:00.000001
+15:19:44,583 root INFO 7332171418120
+15:19:44,583 root INFO It was quick and the associate was very knowledgeable and knew what he was doing.
+15:19:44,583 root INFO 
+15:19:44,583 root INFO 
+15:19:44,583 root INFO 2018-03-01 14:39:00.000003
+15:19:44,583 root INFO 7332592838794
+15:19:44,583 root INFO The customer service person understood my problem and handles it completely. Very satisfied!
+15:19:44,583 root INFO 
+15:19:44,583 root INFO 
+15:19:44,583 root INFO 2018-03-01 14:24:59.999996
+15:19:44,584 root INFO 7332592838794
+15:19:44,584 root INFO It was a rather complex question and the advisor actually had to call several places in order to resolve my question. She did an outstanding job!
+15:19:44,584 root INFO 
+15:19:44,584 root INFO 
+15:19:44,584 root INFO 2018-03-01 14:33:00
+15:19:44,584 root INFO 7332592838794
+15:19:44,584 root INFO I wanted to change an 4 night hotel stay to 2 nights over the same time frame.  The cost on my init is reservation would have been $84 and $169I was told the hotel was sold out but they could cancel and rebook me for 2 nights for $505!  They kept me on the phone for over 40 min while I tried to rectify this and not be over charged.  I got such a run around I finally cancelled the reservation.  As a note: all the early communications said the reservation could be changed with no penalty before 2/28 and I was within the time allowed.  Within hours I saw an email advertisement come through that I could make a reservation again for my requested dates at a rate of $129.  The whole thing was a complete racket!  It cost me time and the hassle of finding another reservation.  I will never use Expedia again
+15:19:44,584 root INFO 
+15:19:44,584 root INFO 
+15:19:44,584 root INFO 2018-03-01 15:11:00.000001
+15:19:44,584 root INFO 7332592838794
+15:19:44,584 root INFO I got what I wanted at a good rate, it just took along time.  I was on the phone for almost an hour and a half.
+15:19:44,584 root INFO 
+15:19:44,584 root INFO 
+15:19:44,585 root INFO 2018-03-01 15:24:59.999999
+15:19:44,585 root INFO 7332592838794
+15:19:44,585 root INFO I could not find a way to contact you by email.  In your favor is that I am not very computer savy.  When I finally got the status changed from guest to member, I cannot find any way to plan a road trip.  That is all I will ever do is road trips unless some special circumstance pops up.  thank you for this chance to let you know of my struggle.  margie
+15:19:44,585 root INFO 
+15:19:44,585 root INFO 
+15:19:44,585 root INFO 2018-03-01 15:42:00.000003
+15:19:44,585 root INFO 7332592838794
+15:19:44,585 root INFO The person that worked on my issue was very helpful.
+15:19:44,585 root INFO 
+15:19:44,585 root INFO 
+15:19:44,585 root INFO 2018-03-01 15:22:00.000002
+15:19:44,585 root INFO 7332592838794
+15:19:44,586 root INFO ONE PHONE CALL & PROLEM SOLVED.
+15:19:44,586 root INFO 
+15:19:44,586 root INFO 
+15:19:44,586 root INFO 2018-03-01 16:12:59.999996
+15:19:44,586 root INFO 7332592838794
+15:19:44,586 root INFO Person I spoke with understood my issue, was sympathetic and took action immediately to help me.
+15:19:44,586 root INFO 
+15:19:44,586 root INFO 
+15:19:44,586 root INFO 2018-03-01 17:53:59.999997
+15:19:44,586 root INFO 7332592838794
+15:19:44,586 root INFO When I attempted to change the dates of my hotel reservation, the reservation was CANCELED - and when I called the help line they were unable to reverse this - resulting in rebooking at a higher daily rate.  I have not idea why the reservation was cancelled.
+15:19:44,587 root INFO 
+15:19:44,587 root INFO 
+15:19:44,587 root INFO 2018-03-01 18:29:59.999997
+15:19:44,587 root INFO 7332592838794
+15:19:44,587 root INFO The consultant was very helpful, walked us thru the procedure.
+15:19:44,587 root INFO 
+15:19:44,587 root INFO 
+15:19:44,587 root INFO 2018-03-01 19:39:59.999996
+15:19:44,587 root INFO 7332592838794
+15:19:44,587 root INFO AARP actually called car Rental and got me information. Very helpful and aarp rep was easy to talk to.
+15:19:44,587 root INFO 
+15:19:44,587 root INFO 
+15:19:44,587 root INFO 2018-03-01 19:54:59.999999
+15:19:44,588 root INFO 7332592838794
+15:19:44,588 root INFO Person was informative and patient and polite.
+15:19:44,588 root INFO 
+15:19:44,588 root INFO 
+15:19:44,588 root INFO 2018-03-01 19:57:00
+15:19:44,588 root INFO 7332592838794
+15:19:44,588 root INFO I spoke with Josh who was very willing to help me make the changes that I needed.  He stayed on the line until everything was in the system and made sure I had the email confirmations.
+15:19:44,588 root INFO 
+15:19:44,588 root INFO 
+15:19:44,588 root INFO 2018-03-01 21:11:59.999997
+15:19:44,588 root INFO 7332592838794
+15:19:44,588 root INFO When my call gets sent out of the USA I have a difficult time understanding the representative.
+15:19:44,588 root INFO 
+15:19:44,588 root INFO 
+15:19:44,588 root INFO 2018-03-01 20:46:59.999998
+15:19:44,589 root INFO 7332592838794
+15:19:44,589 root INFO I needed to cancel my trip and the whole process was very easy to get a refund.
+15:19:44,589 root INFO 
+15:19:44,589 root INFO 
+15:19:44,589 root INFO 2018-03-01 22:41:59.999997
+15:19:44,589 root INFO 7332592838794
+15:19:44,589 root INFO System wasn't holding my AARP number in the box; when I got to the booking confirmation screen it showed a higher price.  This was because system wasn't holding my AARP number when screen changed.  After doing this twice I called your no-customer service call center.  The first time I got a young girl who kept telling me that the flights had changed prices & what the computer showed must be the new price for that flight even though I had gone back into the system & was looking at the same prices that I was trying to book my flight for.  I tried again after my second attempt failed & the man was much more knowledgeable but he wanted to open an "investigation".  I appreciate that but I've worked in a system oriented office & sometimes our 'tickets' took weeks to resolve.  What I wanted was for someone to see that I am actually an AARP member & help me book a flight at the reduced rate.  That was a great big fail for you guys cos you didn't address my needs at all.  Instead, you treated me like I was some crazy old lady who didn't know what was going on.  I will say that I was very ugly to the man that I talked to & I am sorry about that.  I was angry that I had spent a few hours trying to book this flight & I couldn't get it done.  Booking a flight doesn't take that long.  Also, was trying to book this flight for myself & some friends at a certain price so there is the embarrassment factor of having to go back to them & tell them that I couldn't get the price that I thought.
+15:19:44,589 root INFO 
+15:19:44,589 root INFO 
+15:19:44,589 root INFO 2018-03-02 08:24:00
+15:19:44,589 root INFO 7332592838794
+15:19:44,589 root INFO Called to indicate how the Budget car rental "manager line" at Orlando Intrnational airport failed to respond to two of my phone messages and never picked up.  Also, I wanted AARP Expedia to intercede on my behalf.  
+Instead what I received was the AARP Expedia representative sending me the information I already had about my reservation / itinerary and she supplied the  "International" Budget car rental direct phone number, not the domestic direct phone number for MCO - Orlando International airport.  Basically just wasted my time !
+15:19:44,590 root INFO 
+15:19:44,590 root INFO 
+15:19:44,590 root INFO 2018-03-02 07:45:00.000003
+15:19:44,590 root INFO 7332592838794
+15:19:44,590 root INFO ... my concerns were handled professionally, even though several associates addressed them over time!!
+15:19:44,590 root INFO 
+15:19:44,590 root INFO 
+15:19:44,590 root INFO 2018-03-02 11:59:00.000004
+15:19:44,590 root INFO 7332592838794
+15:19:44,590 root INFO The customer service rep was pleasant and seemed helpful.  However either the AARP rep or Thrifty Car Rental rep did not make the necessary change to our reservation as requested.  There was no car reserved in our name when we arrived at our destination.  As a result, we lost the $60.00 Collision Damage Plan that we had prepaid.  We are requesting a refund of this $60.00 charge.
+15:19:44,590 root INFO 
+15:19:44,590 root INFO 
+15:19:44,591 root INFO 2018-03-02 14:37:59.999998
+15:19:44,591 root INFO 7332592838794
+15:19:44,591 root INFO Was given great customer service. Process wss easy rep was great. Very friendly
+15:19:44,591 root INFO 
+15:19:44,591 root INFO 
+15:19:44,591 root INFO 2018-03-02 14:12:59.999999
+15:19:44,591 root INFO 7332592838794
+15:19:44,591 root INFO I had to call about getting a wheelchair for my husband.  I was told with Frontier we had to call them directly.  Our customer service person was very professional in explaining the process and provided the phone number to us for Frontier.
+15:19:44,591 root INFO 
+15:19:44,591 root INFO 
+15:19:44,591 root INFO 2018-03-02 14:03:59.999999
+15:19:44,591 root INFO 7332592838794
+15:19:44,591 root INFO I called and the agent performed the task to note a late hotel. The true test is really what happens whrn I get to the hotel, but for now it was an easy request
+15:19:44,591 root INFO 
+15:19:44,592 root INFO 
+15:19:44,592 root INFO 2018-03-02 13:41:00.000001
+15:19:44,592 root INFO 7332592838794
+15:19:44,592 root INFO I had booked a trip for my husband and me. We then decided to take our 12 year old grandson. Your agent helped my cancel our original trip and rebook on the same flights for all three of us. It was a very pleasant experience.
+15:19:44,592 root INFO 
+15:19:44,592 root INFO 
+15:19:44,592 root INFO 2018-03-02 15:45:59.999996
+15:19:44,592 root INFO 7332592838794
+15:19:44,592 root INFO The Expedia customer service agent was kind and tried to be helpful with my issue.  However, he could not get an answer or correct the error in the final bill with Payless care rental.  The amount quoted was not the amount we paid at the rental car agency.  When asked about the bill the agent said this is what it is and she does not know how to inquire or make changes.   I do not plan to use AARP Travel again based on the poor service by the recommended car rental agency.  Payless Car rental should be taken off the referral list.
+15:19:44,592 root INFO 
+15:19:44,592 root INFO 
+15:19:44,592 root INFO 2018-03-02 16:12:59.999996
+15:19:44,592 root INFO 7332592838794
+15:19:44,592 root INFO the rate went down and they corrected the rate, but I had to ask--why doesn't AARP just automatically give you the lowest when and notify you that it was changed??? That would be the greatest customer service available.    I cannot change my email carrier that we are dropping (Feb) until I take my trip in another 2 months time at the end of April--why?
+15:19:44,592 root INFO 
+15:19:44,593 root INFO 
+15:19:44,593 root INFO 2018-03-02 17:17:59.999997
+15:19:44,593 root INFO 7332592838794
+15:19:44,593 root INFO The mechanics of handling the issue was fairly straight forward.  However, the language barrier ( English was not her prime language ) of the customer service rep caused a lot of "pardon me, I didn't understand you" moments. Time spent on the phone was not efficiently managed because of that barrier.  She placed me on extended hold to confer with the hotel in the booking.  I am confident the hotel rep  had the same problem which likely contributed to the extended time I was left on hold.
+15:19:44,593 root INFO 
+15:19:44,593 root INFO 
+15:19:44,593 root INFO 2018-03-03 09:11:59.999997
+15:19:44,593 root INFO 7332592838794
+15:19:44,593 root INFO After being on the phone with Expedia representative Cathy (who was quite nice and helpful) and confirming that there was no hotel on 3131 S. BLvd Las Vegas, she booked me in another hotel and sold me insurance in case of any trouble. I called Vegas myself after hanging up with Cathy only to find out there is Wynn hotel and immediately called back to change only hotel not flight and was told it would be $227.00 more for booking at the new hotel. On line the difference was not that, but manager would not give me the same rate. She only gave me the option to cancel. I told her I could not since the other charges had gone thru and would have to wait until they cleared and my money returned before making new reservations. I was stuck with having to pay the extra money instead!!!! DIFFICLT!!!!
+15:19:44,593 root INFO 
+15:19:44,593 root INFO 
+15:19:44,593 root INFO 2018-03-04 16:11:00.000004
+15:19:44,593 root INFO 7332592838794
+15:19:44,594 root INFO Contact by telephone was easy.  Operator "Mo" was very polite and explained the issue.  However, I still don't know whether it has been resolved.  My credit card was charged by AARP travel through Expedia for a hotel stay, but the actual hotel bill turned out to be $112.54 less than what I was charged.  Mo promised that he or someone else would get the information from the hotel on Monday the 26th and call me back.  As of today, March 4, I have not heard anything.  Had I received the follow-through call with a satisfactory result, I would have been much more likely to recommend AARP travel.
+15:19:44,594 root INFO 
+15:19:44,594 root INFO 
+15:19:44,594 root INFO 2018-03-04 16:21:59.999996
+15:19:44,594 root INFO 7332592838794
+15:19:44,594 root INFO Told the representative my needs & she handled it smooth and easy.
+15:19:44,594 root INFO 
+15:19:44,594 root INFO 
+15:19:44,594 root INFO 2018-03-04 17:03:59.999999
+15:19:44,594 root INFO 7332592838794
+15:19:44,594 root INFO 53 minutes on hold   they cancelled the wrong flight   had i not called and checked i would have been at the airport with no reservation
+15:19:44,594 root INFO 
+15:19:44,594 root INFO 
+15:19:44,595 root INFO 2018-03-05 15:13:59.999998
+15:19:44,595 root INFO 7332592838794
+15:19:44,595 root INFO Too hard to cancel a reservation and obtain a refund.  Had to get note from doctor.
+15:19:44,595 root INFO 
+15:19:44,595 root INFO 
+15:19:44,595 root INFO 2018-03-05 15:15:00.000003
+15:19:44,595 root INFO 7332592838794
+15:19:44,595 root INFO Pretty self-explanatory
+15:19:44,595 root INFO 
+15:19:44,595 root INFO 
+15:19:44,595 root INFO 2018-03-05 14:37:59.999998
+15:19:44,595 root INFO 7332592838794
+15:19:44,595 root INFO My flight plans were changed without my notification. When I realized it, I called and the person I spoke to was difficult to speak with. He was a little rude. You should probably listen to the recording. Told me "can I speak now?".
+15:19:44,595 root INFO 
+15:19:44,596 root INFO 
+15:19:44,596 root INFO 2018-03-05 16:21:00
+15:19:44,596 root INFO 7332592838794
+15:19:44,596 root INFO Quick response
+15:19:44,596 root INFO 
+15:19:44,596 root INFO 
+15:19:44,596 root INFO 2018-03-05 16:36:00.000003
+15:19:44,596 root INFO 7332592838794
+15:19:44,596 root INFO Call and book your reservation.
+15:19:44,596 root INFO 
+15:19:44,596 root INFO 
+15:19:44,596 root INFO 2018-03-05 16:41:00.000001
+15:19:44,597 root INFO 7332592838794
+15:19:44,597 root INFO I wanted to upgrade to first class but because I third party booked I had to do it through aarp and then I was told there was a charge
+15:19:44,597 root INFO 
+15:19:44,597 root INFO 
+15:19:44,597 root INFO 2018-03-05 17:55:00.000002
+15:19:44,597 root INFO 7332592838794
+15:19:44,597 root INFO The customer representative was very up to date on how to make changes on multiple itineraries. He followed up with confirmation emails and explained how to cancel and rebook to save some money. Good customer service.
+15:19:44,597 root INFO 
+15:19:44,597 root INFO 
+15:19:44,597 root INFO 2018-03-05 17:44:59.999997
+15:19:44,597 root INFO 7332592838794
+15:19:44,597 root INFO Always very helpful. Never dissatisfied.
+15:19:44,597 root INFO 
+15:19:44,597 root INFO 
+15:19:44,598 root INFO 2018-03-05 17:24:00
+15:19:44,598 root INFO 7332592838794
+15:19:44,598 root INFO We changed our plans and you said it would take a few days for the money to be put back in my account and it's been over 3 weeks and I'm still nothing
+15:19:44,598 root INFO 
+15:19:44,598 root INFO 
+15:19:44,598 root INFO 2018-03-05 17:33:00
+15:19:44,598 root INFO 7332592838794
+15:19:44,598 root INFO I was told that because the agent messed up my car rental reservation and the quality of the hotel that they would refund me 100.00 on my Expedia account but the hotel WiFi would not let me set up account on line that when I get it call back called twice today and was told I need to call aarp
+15:19:44,598 root INFO 
+15:19:44,598 root INFO 
+15:19:44,598 root INFO 2018-03-05 18:51:59.999999
+15:19:44,598 root INFO 7332592838794
+15:19:44,598 root INFO The person on the telephone who was handling my request was cold, almost rude, and very lacking in patience. When I said I could not hear or understand, he got angrier with each mention. But he had a very heavy Spanish(I am not sure?) accent. He spoke very fast, not clearly nor loudly and I am a native speaker English teacher. I deal with non-native speakers all the time. I live in Japan from where the call was placed and it was a terrible experience in communication. He gave me only 3 choices and almost threateningly told me that would be it. My mother was sick and I was considering changing my return trip departure date from EWR to Tokyo if possible and he was not at all kind.
+15:19:44,598 root INFO 
+15:19:44,598 root INFO 
+15:19:44,599 root INFO 2018-03-05 19:16:00.000002
+15:19:44,599 root INFO 7332592838794
+15:19:44,599 root INFO When the flight was canceled was easier to contact them to get everything reschedule for another day so I appreciate it that
+15:19:44,599 root INFO 
+15:19:44,599 root INFO 
+15:19:44,599 root INFO 2018-03-05 19:45:00.000003
+15:19:44,599 root INFO 7332592838794
+15:19:44,599 root INFO The issue was incorrect content which required escalation to a supervisor.
+15:19:44,599 root INFO 
+15:19:44,599 root INFO 
+15:19:44,599 root INFO 2018-03-05 21:02:00.000001
+15:19:44,599 root INFO 7332592838794
+15:19:44,599 root INFO It took some time waiting for results on our issue.
+15:19:44,599 root INFO 
+15:19:44,599 root INFO 
+15:19:44,600 root INFO 2018-03-05 21:27:59.999996
+15:19:44,600 root INFO 7332592838794
+15:19:44,600 root INFO your agent walked me through the process, found the problem and helped me to complete my airline reservation.
+15:19:44,600 root INFO 
+15:19:44,600 root INFO 
+15:19:44,600 root INFO 2018-03-05 23:41:00.000004
+15:19:44,600 root INFO 7332592838794
+15:19:44,600 root INFO Because then I spoke with the rep; she answered all of my question directly and what she could not found out what I like to know. More over she found the most economic flight and hotel for me. I will be calling her back to make the reservations soon.!!!
+15:19:44,600 root INFO 
+15:19:44,600 root INFO 
+15:19:44,600 root INFO 2018-03-06 00:27:59.999996
+15:19:44,600 root INFO 7332592838794
+15:19:44,600 root INFO When I called Budget to cancel my rental car, Budget told me it could not and to call AARP/Expedia, as only they could cancel it. AARP/Expedia told me it could not cancel my reservation and to call Budget. That's not nice.
+15:19:44,601 root INFO 
+15:19:44,601 root INFO 
+15:19:44,601 root INFO 2018-03-05 16:27:59.999999
+15:19:44,601 root INFO 7332592838794
+15:19:44,601 root INFO Expedia took 10 days to get back to me from my email
+15:19:44,601 root INFO 
+15:19:44,601 root INFO 
+15:19:44,601 root INFO 2018-03-06 04:27:00.000003
+15:19:44,601 root INFO 7332592838794
+15:19:44,601 root INFO first call idiot had her mute button on and hung up when couldn't hear me .. second one dropped while transferring .. third try bounced thru 3 agents on hold over 10 minutes two times with second agent and third copied wrong dates from second person and by time corrected to right dates price had raised $100  when asked to speak to a supervisor 'Jessa' said can't do that--EVERY call center person can transfer when member having problems!!!!! I work for a call center myself and that would have gotten me fired!  Hung up in disgust and went to another website to book.
+15:19:44,601 root INFO 
+15:19:44,601 root INFO 
+15:19:44,601 root INFO 2018-03-06 06:54:00
+15:19:44,602 root INFO 7332592838794
+15:19:44,602 root INFO the agent was very helpful, understood my problem, intervened with the hotel, and communicated effectively every step of the way.
+15:19:44,602 root INFO 
+15:19:44,602 root INFO 
+15:19:44,602 root INFO 2018-03-06 10:05:00.000001
+15:19:44,602 root INFO 7332592838794
+15:19:44,602 root INFO CSR was very knowledgeable, polite, and took care of my request quickly.
+15:19:44,602 root INFO 
+15:19:44,602 root INFO 
+15:19:44,602 root INFO 2018-03-05 18:15:59.999999
+15:19:44,602 root INFO 7332592838794
+15:19:44,602 root INFO It did require a little time on the phone waiting for the issue to be resolved but the outcome was positive
+15:19:44,602 root INFO 
+15:19:44,602 root INFO 
+15:19:44,602 root INFO 2018-03-06 12:13:00.000002
+15:19:44,603 root INFO 7332592838794
+15:19:44,603 root INFO Since everything was cancelled by the weather, it was good to have an advocate to help get everything re-scheduled.
+15:19:44,603 root INFO 
+15:19:44,603 root INFO 
+15:19:44,603 root INFO 2018-03-06 12:42:59.999999
+15:19:44,603 root INFO 7332592838794
+15:19:44,603 root INFO the person that was helping  was very helpful and patient.
+15:19:44,603 root INFO 
+15:19:44,603 root INFO 
+15:19:44,603 root INFO 2018-03-06 14:28:00.000002
+15:19:44,603 root INFO 7332592838794
+15:19:44,603 root INFO I do not do a lot of traveling and since I was an AARP Member decided to try the service as I had a family emergency and needed to make airline and hotel reservations.  I just called the Center and they handled all of the reservations and sent me an e-mail with my flight itinerary and made the experience very easy.
+15:19:44,603 root INFO 
+15:19:44,604 root INFO 
+15:19:44,604 root INFO 2018-03-06 14:28:59.999998
+15:19:44,604 root INFO 7332592838794
+15:19:44,604 root INFO We booked a 'non'refundable' hotel reservation for the end of March. My wife was diagnosed with Endometrial Cancer and her surgery was scheduled for that week in March. I 1st called the hotel mgr. and explained my situation and he said I needed to contact Expedia to try to make any changes. I contacted an Expedia agent and explained to her my sudden need to cancel our trip and she was very sympathetic to our needs. She contacted the hotel manager and came back online to tell me our reservation was cancelled and we would get a refund. She also wished my wife and I a positive outcome for her surgery. We hope we can re-book our trip sometime in June. Thank you all for your understanding and help in resolving our situation.
+15:19:44,604 root INFO 
+15:19:44,604 root INFO 
+15:19:44,604 root INFO 2018-03-06 14:01:59.999998
+15:19:44,604 root INFO 7332592838794
+15:19:44,604 root INFO I called twice about the same issue, the first time I called I was put on indefinite hold with a few clicks, the second time I called I got the issue resolved quickly.
+15:19:44,604 root INFO 
+15:19:44,604 root INFO 
+15:19:44,604 root INFO 2018-03-06 14:15:59.999996
+15:19:44,605 root INFO 7332592838794
+15:19:44,605 root INFO I could not get the woman to understand that I only wanted to change the dates of my reservation.  The price for adding one additional night was astronomical.
+15:19:44,605 root INFO 
+15:19:44,605 root INFO 
+15:19:44,605 root INFO 2018-03-06 14:12:59.999999
+15:19:44,605 root INFO 7332592838794
+15:19:44,605 root INFO I was on the phone for almost 1  hour. The issue is not resolved yet.
+15:19:44,605 root INFO 
+15:19:44,605 root INFO 
+15:19:44,605 root INFO 2018-03-06 15:00:59.999996
+15:19:44,605 root INFO 7332592838794
+15:19:44,605 root INFO Was treated with expediency and respect regarding my concerns.
+15:19:44,605 root INFO 
+15:19:44,606 root INFO 
+15:19:44,606 root INFO 2018-03-06 14:44:59.999997
+15:19:44,606 root INFO 7332592838794
+15:19:44,606 root INFO The wait time was a little longer than I would have liked but the representative was excellent.  Asked me what the problem I had with a recent booking and and gave me my options.  Fast friendly courteous service.  Very happy with the experience.
+15:19:44,606 root INFO 
+15:19:44,606 root INFO 
+15:19:44,606 root INFO 2018-03-06 14:42:59.999996
+15:19:44,606 root INFO 7332592838794
+15:19:44,606 root INFO Because it was very easy
+15:19:44,606 root INFO 
+15:19:44,606 root INFO 
+15:19:44,606 root INFO 2018-03-06 15:51:00.000003
+15:19:44,606 root INFO 7332592838794
+15:19:44,606 root INFO I still have not received an answer to my request concerning a price guarantee question I submitted 4 days ago. I sent numerous messages asking for a resolution. Because of this issue and lack of response, I'm rating this service as low as possible!  Prior to this issue, I've always been satisfied with my experiences.
+15:19:44,607 root INFO 
+15:19:44,607 root INFO 
+15:19:44,607 root INFO 2018-03-06 15:35:00.000004
+15:19:44,607 root INFO 7332592838794
+15:19:44,607 root INFO Easy because I could talk to an agent and when the flights were cancelled because of the storm, someone got back to be even if it was 4am the next day.
+15:19:44,607 root INFO 
+15:19:44,607 root INFO 
+15:19:44,607 root INFO 2018-03-06 16:38:00.000004
+15:19:44,607 root INFO 7332592838794
+15:19:44,607 root INFO Web site worked very well but to make changes it did take several extra steps, site does make reservations easy.
+15:19:44,607 root INFO 
+15:19:44,607 root INFO 
+15:19:44,607 root INFO 2018-03-06 17:03:00.000003
+15:19:44,607 root INFO 7332592838794
+15:19:44,608 root INFO a bit of a wait to get through to someone but otherwise just fine
+15:19:44,608 root INFO 
+15:19:44,608 root INFO 
+15:19:44,608 root INFO 2018-03-06 17:42:00
+15:19:44,608 root INFO 7332592838794
+15:19:44,608 root INFO The wait time was minimal, the representative was want customer service was when I was younger - professional, cordial, went beyond my expectations of giving me exact answers to my questions and researching to make sure I was getting the best deal for my money.
+15:19:44,608 root INFO 
+15:19:44,608 root INFO 
+15:19:44,608 root INFO 2018-03-06 18:24:00.000003
+15:19:44,608 root INFO 7332592838794
+15:19:44,608 root INFO The associate was able to change contact information for our flight as I had requested.
+15:19:44,608 root INFO 
+15:19:44,608 root INFO 
+15:19:44,608 root INFO 2018-03-06 17:55:59.999998
+15:19:44,608 root INFO 7332592838794
+15:19:44,609 root INFO Your representatives are most cooperative, very polite and helpfull
+15:19:44,609 root INFO 
+15:19:44,609 root INFO 
+15:19:44,609 root INFO 2018-03-06 20:33:59.999996
+15:19:44,609 root INFO 7332592838794
+15:19:44,609 root INFO The flight was cancelled due to the snow storm on Friday 3/2/18.  Tried to speak to someone got voice activated response.  Could not get a human being on the voice to talk to.  Call back was scheduled for two hours or more.  Seems like the system works exceptionally well to book the arrangements; but oh my gosh, getting a human to talk to when there is a concern or in my case - cancelled flight- was not possible.  Make the system equal - booking easy - problem easy.
+15:19:44,609 root INFO 
+15:19:44,609 root INFO 
+15:19:44,609 root INFO 2018-03-06 20:46:00.000002
+15:19:44,609 root INFO 7332592838794
+15:19:44,609 root INFO Explain what I needed, an ajustment was made ,changed the date an place where I will pickup rental car. The Expedia person was very helpful. Thank. You
+15:19:44,609 root INFO 
+15:19:44,609 root INFO 
+15:19:44,609 root INFO 2018-03-06 22:36:00.000003
+15:19:44,609 root INFO 7332592838794
+15:19:44,610 root INFO I was not aware the AARP Travel Center was affiliated with another source. Additionally, I was not told of additional discounts which I found out about when I went into the service website I was looking for.
+15:19:44,610 root INFO 
+15:19:44,610 root INFO 
+15:19:44,610 root INFO 2018-03-07 06:56:59.999997
+15:19:44,610 root INFO 7332592838794
+15:19:44,610 root INFO I was able to make my reservations very easily online. When I wanted to extend my stay I wa able to do so. After speaking with an Expedia customer service representative, they directed me to the contact to do so.
+15:19:44,610 root INFO 
+15:19:44,610 root INFO 
+15:19:44,610 root INFO 2018-03-07 09:29:00.000001
+15:19:44,610 root INFO 7332592838794
+15:19:44,610 root INFO Called about weather delay  Unfortunately had to wait for them to return my call at 2 AM   They refunded my nights lodging as it was beyond my control.
+15:19:44,610 root INFO 
+15:19:44,610 root INFO 
+15:19:44,610 root INFO 2018-03-07 11:08:00.000001
+15:19:44,610 root INFO 7332592838794
+15:19:44,611 root INFO people I talked to ask specific question so that my answers identified the problems for which I needed help.
+15:19:44,611 root INFO 
+15:19:44,611 root INFO 
+15:19:44,611 root INFO 2018-03-07 10:34:59.999998
+15:19:44,611 root INFO 7332592838794
+15:19:44,611 root INFO The customer service rep was very patient and offered to cancel and rebook the correct dates. I've never experienced this level of customer service before but I'm so grateful I did, especially with this situation.
+15:19:44,611 root INFO 
+15:19:44,611 root INFO 
+15:19:44,611 root INFO 2018-03-07 11:21:00.000003
+15:19:44,611 root INFO 7332592838794
+15:19:44,611 root INFO The lady that helped me was very nice, however, I was on hold for about 15 minutes (she warned me it would be a while), I had to hang up because I was going to be late to meet up with someone....she called back (which again she said she would if we got cut off), but again I had to wait about 10 more minutes while she confirmed the remaining cost to me for changing my flight.  I did however get on the flight I wanted to, so only upsetting part was being on hold sooooo long.
+15:19:44,611 root INFO 
+15:19:44,611 root INFO 
+15:19:44,611 root INFO 2018-03-07 13:05:59.999997
+15:19:44,611 root INFO 7332592838794
+15:19:44,612 root INFO The AARP travel expert was very easy to work with.  The Budget Car rental end was confusing, but the AARP person persisted for me until everything was clear.
+15:19:44,612 root INFO 
+15:19:44,612 root INFO 
+15:19:44,612 root INFO 2018-03-07 15:24:59.999999
+15:19:44,612 root INFO 7332592838794
+15:19:44,612 root INFO Absolutely no resolution.  Had to escalate independently.  Flights were not booked correctly, changed without notice, website was poor, unable to send emails.  Agent did not resolve issue, yet, when I contacted parties involved independently it was ultimately resolved.  Spent hours.  Will never use this service again.  AARP should find a different travel vendor.
+15:19:44,612 root INFO 
+15:19:44,612 root INFO 
+15:19:44,612 root INFO 2018-03-07 14:39:00.000003
+15:19:44,612 root INFO 7332592838794
+15:19:44,612 root INFO Customer service representative was very helpful and considerate.
+15:19:44,612 root INFO 
+15:19:44,612 root INFO 
+15:19:44,613 root INFO 2018-03-07 15:15:00.000003
+15:19:44,613 root INFO 7332592838794
+15:19:44,613 root INFO I love that your system is efficient and your team of skilled personnel is courteous and resilient. I appreciate this very much.
+15:19:44,613 root INFO 
+15:19:44,613 root INFO 
+15:19:44,613 root INFO 2018-03-07 15:56:59.999997
+15:19:44,613 root INFO 7332592838794
+15:19:44,613 root INFO I had to call twice. After waiting on hold, I disconnected the call when it was finally answered. Called again, waited again, then got the issue solved. Main trouble was that I could not understand the person helping, which made the answer "easy" instead of "very easy"
+15:19:44,613 root INFO 
+15:19:44,613 root INFO 
+15:19:44,613 root INFO 2018-03-07 17:33:59.999996
+15:19:44,613 root INFO 7332592838794
+15:19:44,613 root INFO The service representative was able to grasp exactly what the problem was, was patient with my explanations, and more importantly, was able to solve the problem in the same phone call.
+15:19:44,614 root INFO 
+15:19:44,614 root INFO 
+15:19:44,614 root INFO 2018-03-07 18:02:00.000001
+15:19:44,614 root INFO 7332592838794
+15:19:44,614 root INFO The lady, Megan, was very helpful.  I believe that was her name.
+15:19:44,614 root INFO 
+15:19:44,614 root INFO 
+15:19:44,614 root INFO 2018-03-07 18:11:00.000001
+15:19:44,614 root INFO 7332592838794
+15:19:44,614 root INFO because it was
+15:19:44,614 root INFO 
+15:19:44,614 root INFO 
+15:19:44,614 root INFO 2018-03-07 22:07:00.000002
+15:19:44,614 root INFO 7332592838794
+15:19:44,615 root INFO Quick and easy service by all I spoke to that handled my needs.
+15:19:44,615 root INFO 
+15:19:44,615 root INFO 
+15:19:44,615 root INFO 2018-03-07 22:52:00.000002
+15:19:44,615 root INFO 7332592838794
+15:19:44,615 root INFO Representative was helpful, efficient, polite.  What more could I ask?!
+15:19:44,615 root INFO 
+15:19:44,615 root INFO 
+15:19:44,615 root INFO 2018-03-07 22:21:59.999996
+15:19:44,615 root INFO 7332592838794
+15:19:44,615 root INFO It was fast and easy.
+15:19:44,615 root INFO 
+15:19:44,615 root INFO 
+15:19:44,616 root INFO 2018-03-08 07:29:00.000004
+15:19:44,616 root INFO 7332592838794
+15:19:44,616 root INFO I needed to change my reservation and it was taken care of right away
+15:19:44,616 root INFO 
+15:19:44,616 root INFO 
+15:19:44,616 root INFO 2018-03-08 14:26:00.000001
+15:19:44,616 root INFO 7332592838794
+15:19:44,616 root INFO Initially I was told the Expedia had to make the changes, then when I contacted Expedia they worked with me, but sent me back to American to make the changes.  Once we got through all of that, it was ok.
+15:19:44,616 root INFO 
+15:19:44,616 root INFO 
+15:19:44,616 root INFO 2018-03-08 14:17:59.999997
+15:19:44,616 root INFO 7332592838794
+15:19:44,616 root INFO I was sick and had to cancel hotel and E made it so easy to cancel by calling hotel while I was placed on hold.
+15:19:44,617 root INFO 
+15:19:44,617 root INFO 
+15:19:44,617 root INFO 2018-03-08 14:48:59.999999
+15:19:44,617 root INFO 7332592838794
+15:19:44,617 root INFO after I got a rep, then she handled it quickly
+15:19:44,617 root INFO 
+15:19:44,617 root INFO 
+15:19:44,617 root INFO 2018-03-08 15:11:00.000001
+15:19:44,617 root INFO 7332592838794
+15:19:44,617 root INFO I had a problem and it was immediately solved.
+15:19:44,617 root INFO 
+15:19:44,617 root INFO 
+15:19:44,617 root INFO 2018-03-08 15:35:00.000004
+15:19:44,617 root INFO 7332592838794
+15:19:44,618 root INFO The representative that I spoke with was very friendly and helpful.  She made the process very easy for me.
+15:19:44,618 root INFO 
+15:19:44,618 root INFO 
+15:19:44,618 root INFO 2018-03-08 16:14:00.000001
+15:19:44,618 root INFO 7332592838794
+15:19:44,618 root INFO The customer service agent was very efficient and able to resolve thinks quickly and pleasantly. It wasn't a difficult issue but important to me and she recognized that and was very professional
+15:19:44,618 root INFO 
+15:19:44,618 root INFO 
+15:19:44,618 root INFO 2018-03-08 16:21:00
+15:19:44,618 root INFO 7332592838794
+15:19:44,618 root INFO Took care of issue immediately however will never book again from them prices higher no discount for AARP membership
+15:19:44,618 root INFO 
+15:19:44,618 root INFO 
+15:19:44,619 root INFO 2018-03-08 15:56:59.999997
+15:19:44,619 root INFO 7332592838794
+15:19:44,619 root INFO When I had called in and explained to Bob that I had purchased an airline ticket for our son but then realized that middle name was spelled wrong. He was very polite and calmed my nerves down and fixed my problem. I was so pleased with how he handled the situation. I wished Bob could be my permanent agent. He was so knowledgeable and professional. Thank you Bob
+15:19:44,619 root INFO 
+15:19:44,619 root INFO 
+15:19:44,619 root INFO 2018-03-08 15:53:00.000004
+15:19:44,619 root INFO 7332592838794
+15:19:44,619 root INFO HOTEL BURNED 3 WEEKS EARLIER,WAITED FOREVER ON THE PHONE,GOT DISCONNECTED??I DID CALL AGAIN AND EXPRESSED MY EXTREME AGGRAVATION AFTER DRIVING SEVERAL STATES , ETC,ETC
+15:19:44,619 root INFO 
+15:19:44,619 root INFO 
+15:19:44,619 root INFO 2018-03-08 16:27:00.000003
+15:19:44,620 root INFO 7332592838794
+15:19:44,620 root INFO Long wait time, then put on hold multiple times only to find out the next day the problem wasn’t even fixed. Extremely frustrating experience!
+15:19:44,620 root INFO 
+15:19:44,620 root INFO 
+15:19:44,620 root INFO 2018-03-08 19:30:00
+15:19:44,620 root INFO 7332592838794
+15:19:44,620 root INFO all customer service people are friendly. Wait time is not long and we can get a convenient call back. solve my issues every time
+15:19:44,620 root INFO 
+15:19:44,620 root INFO 
+15:19:44,620 root INFO 2018-03-08 16:29:00.000004
+15:19:44,620 root INFO 7332592838794
+15:19:44,620 root INFO I had to push my rental out by a day because flights were canceled on the US East Coast due to inclement.
+I spent 1hr 20 mins trying to achieve this and was being told they had “ no” available cars the next day when mine would have been physically sitting there. I even said I didn’t care about paying for the extra day as the alternative was to pay $250 more, for a lesser car, for one less days rental.
+I had to escalate it to Marvin who tried to help by using an alternative I provided which was to amend the name on the booking to our friends coming in from the UK.
+Upon arrival and 2hrs through immigration there was no car. So we as a group are car less in Barbados at one of their busiest times of the year
+15:19:44,620 root INFO 
+15:19:44,621 root INFO 
+15:19:44,621 root INFO 2018-03-09 01:36:00.000003
+15:19:44,621 root INFO 7332592838794
+15:19:44,621 root INFO Because i needed to order baggage for flight with frontier and spent about 1.5 hours trying to do it thru. Expedia. After extremely frustrsted calkex and found i couldnt do it on exoedia, even tbough i ordeted tickets from expedia. Could only order bags from frontier. A note on expedia stating such would have helped. I would have went to their site. I was told after i called.other than wasting much needed time for other things went smoothly.
+15:19:44,621 root INFO 
+15:19:44,621 root INFO 
+15:19:44,621 root INFO 2018-03-09 09:42:59.999999
+15:19:44,621 root INFO 7332592838794
+15:19:44,621 root INFO The site repeatedly rejected my credentials. Each time I was able to get back on the site the prices and availability of lodging changed. I wanted to make a change to my itinerary and the site rejected my changes asking me to try again. I finally had to contact customer service. They were experiencing the same issues and created another reservation for me. They were unable to obtain the same price as the original reservation. They suggested I hold both reservations and to keep checking back to see if what I wanted became available. I decided not to wait, and once the B&B was opened again in the morning, I called them and they were able to make the corrections I needed and they cancelled my duplicate reservation.
+15:19:44,621 root INFO 
+15:19:44,621 root INFO 
+15:19:44,621 root INFO 2018-03-09 14:24:00
+15:19:44,621 root INFO 7332592838794
+15:19:44,621 root INFO Knowledgeable AARP staff made everything pleasant 
+and easy
+15:19:44,622 root INFO 
+15:19:44,622 root INFO 
+15:19:44,622 root INFO 2018-03-09 17:08:59.999997
+15:19:44,622 root INFO 7332592838794
+15:19:44,622 root INFO I was originally going to ignore this survey since most of the experience was so negative. However, the last representative (something JAY) did everything she could to resolve the issue. By now, I know you can review the phone conversations. ...JAY deserves a lot of credit.
+15:19:44,622 root INFO 
+15:19:44,622 root INFO 
+15:19:44,622 root INFO 2018-03-09 19:14:00.000001
+15:19:44,622 root INFO 7332592838794
+15:19:44,622 root INFO I put in a search for multi-city and one way appeared so I booked the ticket then found out even though I picked my seats they say that would not be valued and I could not carry on my luggage. The small savings ends up being spent on luggage and the discomfort and being seated anywhere.UH
+15:19:44,622 root INFO 
+15:19:44,622 root INFO 
+15:19:44,622 root INFO 2018-03-09 20:19:00.000002
+15:19:44,623 root INFO 7332592838794
+15:19:44,623 root INFO The only issue we experienced was a change in flight times caused by the airlines. We were informed and all went well
+15:19:44,623 root INFO 
+15:19:44,623 root INFO 
+15:19:44,623 root INFO 2018-03-09 19:30:00
+15:19:44,623 root INFO 7332592838794
+15:19:44,623 root INFO The representative understood my issue and took care of it.
+15:19:44,623 root INFO 
+15:19:44,623 root INFO 
+15:19:44,623 root INFO 2018-03-09 19:57:59.999996
+15:19:44,623 root INFO 7332592838794
+15:19:44,623 root INFO After being on hold for the majority of an hour, the Rep Bob came back on to say they were having a system upgrade and he would call me back. After over an hour with no call, I called again to be told the update was still happening and I should call the hotels and car rental myself and then when I was called back by rep they would confirm and process the refunds. After doing so, over an hour later I received a call back from Rep Bob and spent the majority of another hour on hold while he conferred with Supervisor Shelly. After being transferred to Shelly and spending another hour basically on hold, my items were completed.
+15:19:44,623 root INFO 
+15:19:44,623 root INFO 
+15:19:44,624 root INFO 2018-03-10 09:02:59.999997
+15:19:44,624 root INFO 7332592838794
+15:19:44,624 root INFO I fixed the issue myself
+15:19:44,624 root INFO 
+15:19:44,624 root INFO 
+15:19:44,624 root INFO 2018-03-10 11:15:59.999996
+15:19:44,624 root INFO 7332592838794
+15:19:44,624 root INFO Canceling my rental was easy but it wasn't easy to leave the reason why I was canceling.
+15:19:44,624 root INFO 
+15:19:44,624 root INFO 
+15:19:44,624 root INFO 2018-03-10 13:48:59.999996
+15:19:44,624 root INFO 7332592838794
+15:19:44,624 root INFO she found me a nice price, but i cant confirm my seat, cause i have to pay 200.00 more,
+15:19:44,624 root INFO 
+15:19:44,625 root INFO 
+15:19:44,625 root INFO 2018-03-10 14:37:59.999998
+15:19:44,625 root INFO 7332592838794
+15:19:44,625 root INFO Agent was very helpful in resolving issue.
+15:19:44,625 root INFO 
+15:19:44,625 root INFO 
+15:19:44,625 root INFO 2018-03-10 17:53:59.999997
+15:19:44,625 root INFO 7332592838794
+15:19:44,625 root INFO My call was answered right away. The customer service rep understood my situation and resolved it right away.
+15:19:44,625 root INFO 
+15:19:44,625 root INFO 
+15:19:44,625 root INFO 2018-03-10 19:00:59.999999
+15:19:44,625 root INFO 7332592838794
+15:19:44,625 root INFO No one willing to help.
+15:19:44,626 root INFO 
+15:19:44,626 root INFO 
+15:19:44,626 root INFO 2018-03-11 07:48:00
+15:19:44,626 root INFO 7332592838794
+15:19:44,626 root INFO Long hold times..Many mistakes made by rep..Long process corecting issues..Money reinbursed is in the form of a coupon
+15:19:44,626 root INFO 
+15:19:44,626 root INFO 
+15:19:44,626 root INFO 2018-03-11 22:21:59.999996
+15:19:44,626 root INFO 7332592838794
+15:19:44,626 root INFO On 3/5 I booked a car through what I thought was Budget but turned out to be Advantage Car rental.  When I realized this I called back and the guy I talked to told me there might be a cancellation fee and to hold on.  He came back and said there wasn't. This is months before I would need a car so I feel he was harrassing me.  I asked for an email to confirm the reservation was cancelled.  Never got one.  Called again this last Friday spoke with Joe.  He seemed bothered by me.  He said it was cancelled.  Again I asked for confirmation of this.  To date I have no documented verification that it was cancelled.  Will someone please send me an email to confirm cancellation of this car.  #7334787260705. If I don't get an email I shall have to take this further.  Don't even get me started on you United Health care AARP endorsed.  What a bunch of shady salesmen.  Deceitful and out and out lied about the coverage.  I know your not medical people.  But so far anything I've tried to do through AARP has been a bust.  You really need to investigate the people you endorse.  The people I have dealt with both issues only tell you what they think will make a sale.  Shame on them and shame on you for tolerating them.  Just an FYI the internet has a plethora of complaints for both issues.  Dozens and dozens of people can't all be wrong.
+15:19:44,626 root INFO 
+15:19:44,626 root INFO 
+15:19:44,627 root INFO 2018-03-12 15:02:59.999997
+15:19:44,627 root INFO 7332592838794
+15:19:44,627 root INFO The agent told us she could save us money on air fare and couldn’t book the flight we wanted. Said it was sold out. We went online and got it and at a lower cost than she quoted.
+15:19:44,627 root INFO 
+15:19:44,627 root INFO 
+15:19:44,627 root INFO 2018-03-12 14:57:00.000003
+15:19:44,627 root INFO 7332592838794
+15:19:44,627 root INFO Person I talked with was knowledgeable about the concern I had and knew what suggestions might work.
+15:19:44,627 root INFO 
+15:19:44,627 root INFO 
+15:19:44,627 root INFO 2018-03-12 14:51:00
+15:19:44,627 root INFO 7332592838794
+15:19:44,627 root INFO You were extremely professional and I could tell you were working on my behalf.  I took note of the real customer service and told family and friends.  The event was handled quickly and I left,feeling good about the results.  It was stressful enough to decide to cancel, you made it a breeze, so I'm thankful.
+15:19:44,627 root INFO 
+15:19:44,627 root INFO 
+15:19:44,628 root INFO 2018-03-12 14:55:59.999998
+15:19:44,628 root INFO 7332592838794
+15:19:44,628 root INFO I went on your web site, saw the trip I wanted. Called the 800 number, took 10 hours of my time, 9 agents, 4 different prices 
+I would have cancelled the whole thing, but I am stuck with the airline tickets, that kept being changed during this nightmare of an experience.
+15:19:44,628 root INFO 
+15:19:44,628 root INFO 
+15:19:44,628 root INFO 2018-03-12 15:02:59.999997
+15:19:44,628 root INFO 7332592838794
+15:19:44,628 root INFO The customer service representative listened to my concerns and made every effort to satisfy my questions and provide answers.
+15:19:44,628 root INFO 
+15:19:44,628 root INFO 
+15:19:44,628 root INFO 2018-03-12 14:39:00.000003
+15:19:44,628 root INFO 7332592838794
+15:19:44,628 root INFO The CSR answered quickly, and called car rental agency to cover my request.
+15:19:44,628 root INFO 
+15:19:44,629 root INFO 
+15:19:44,629 root INFO 2018-03-12 14:28:59.999998
+15:19:44,629 root INFO 7332592838794
+15:19:44,629 root INFO The agent took my info & handled the problem
+15:19:44,629 root INFO 
+15:19:44,629 root INFO 
+15:19:44,629 root INFO 2018-03-12 15:13:59.999998
+15:19:44,629 root INFO 7332592838794
+15:19:44,629 root INFO Total on hold over 4hr. Cancelled everything and was my credit card was billed for the entire amount. Expedia will not refund it unless they see my credit card account.
+They know they billed it.
+15:19:44,629 root INFO 
+15:19:44,629 root INFO 
+15:19:44,629 root INFO 2018-03-12 16:02:00.000004
+15:19:44,630 root INFO 7332592838794
+15:19:44,630 root INFO I bought the insurance with it in case I had to cancel, and there was nothing that said the cancellation had to be a medical problem.  I am getting ready to retire to Fla., and I needed to go look at houses, but I found a house online and didn't need to go again.  I am furious with American Airlines, Expedia, and AARP for no explanation that the cancellation was conditional.  I had also included my sister in this, so I'm out $700-800, which I can't afford.
+15:19:44,630 root INFO 
+15:19:44,630 root INFO 
+15:19:44,630 root INFO 2018-03-12 16:38:00.000004
+15:19:44,630 root INFO 7332592838794
+15:19:44,630 root INFO The agent listened to my issue and informed  me that she would make a recommendation and that the final decision was dependent on the hotel
+15:19:44,630 root INFO 
+15:19:44,630 root INFO 
+15:19:44,630 root INFO 2018-03-12 16:56:00.000004
+15:19:44,630 root INFO 7332592838794
+15:19:44,630 root INFO I was on the phone for two hours and talked to three different people to resolve the issue. I appreciate their efforts, but it should NEVER have taken so long.
+15:19:44,630 root INFO 
+15:19:44,631 root INFO 
+15:19:44,631 root INFO 2018-03-12 17:17:00.000001
+15:19:44,631 root INFO 7332592838794
+15:19:44,631 root INFO website was easy to navigate, except when you gave me a code, it was not clear that you were sending it to my email. But the rest of the directions were very clear.
+15:19:44,631 root INFO 
+15:19:44,631 root INFO 
+15:19:44,631 root INFO 2018-03-12 17:21:59.999999
+15:19:44,631 root INFO 7332592838794
+15:19:44,631 root INFO We needed a flight changed due to weather conditions and Expedia handled it with no problem!
+15:19:44,631 root INFO 
+15:19:44,631 root INFO 
+15:19:44,631 root INFO 2018-03-12 18:31:59.999998
+15:19:44,631 root INFO 7332592838794
+15:19:44,631 root INFO It was easy to handle. I told them the problem. The gentlemen that I talked to was the issue. He didn’t do anything to resolve issue. I had to call back 2 days later, and it still hadn’t been addressed.  A young lady took care of the problem in just a few minutes. Very thankful for her
+15:19:44,632 root INFO 
+15:19:44,632 root INFO 
+15:19:44,632 root INFO 2018-03-12 19:00:59.999999
+15:19:44,632 root INFO 7332592838794
+15:19:44,632 root INFO I explained my problem and the agent listened and said he would do everything he could to help me resolve the problem, and he did!!
+15:19:44,632 root INFO 
+15:19:44,632 root INFO 
+15:19:44,632 root INFO 2018-03-12 19:50:00.000001
+15:19:44,632 root INFO 7332592838794
+15:19:44,632 root INFO I made airline & car reservations for 4 adults; expedia took my money and failed to obtain the airline tickets, but did do the car. It took over one hour on the phone with three Expedia personnel to tell me that you would refund the money but not for at least seven days. That even though you took my money you could not buy the plane tickets. That once you take my money it takes many levels of management to consider refunding, even when your fault.
+15:19:44,632 root INFO 
+15:19:44,632 root INFO 
+15:19:44,632 root INFO 2018-03-12 19:54:00.000003
+15:19:44,632 root INFO 7332592838794
+15:19:44,633 root INFO The agent I spoke with was extremely understanding and helpful.
+15:19:44,633 root INFO 
+15:19:44,633 root INFO 
+15:19:44,633 root INFO 2018-03-12 20:42:00
+15:19:44,633 root INFO 7332592838794
+15:19:44,633 root INFO When I explained the situation to Derrick over the phone, he was supportive and helpful and managed to refund our money without any issue.
+15:19:44,633 root INFO 
+15:19:44,633 root INFO 
+15:19:44,633 root INFO 2018-03-12 20:39:59.999999
+15:19:44,633 root INFO 7332592838794
+15:19:44,633 root INFO WHEN I MADE MY HOTEL RESERVATION, I THEN WENT TO THE HOTEL AND THERE WAS NO POWER- THE HOTEL HAD BEEN WITHOUT POWER, HOWEVER YOU PERMITTED ME TO MAKE A HOTEL RESERVATION ON LINE, AND THERE WAS NO NOTICE ABOUT THE HOTEL NOT HAVING ACCESS TO POWER. IT WAS EXTREMELY IRRESPONSIBLE FOR YOUR COMPANY TO ACCEPT RESERVATIONS FOR A HOTEL THAT WAS WITHOUT POWER. WHEN I CONTACTED YOUR CUSTOMER SERVICE DEPARTMENT, I WAS PUT ON HOLD FOR 20 MINUTES BEFORE FINALLY HANGING UP. IT WAS A VERY UNPROFESSIONAL POORLY HANDLED EXPERIENCE
+15:19:44,633 root INFO 
+15:19:44,633 root INFO 
+15:19:44,633 root INFO 2018-03-12 21:45:00
+15:19:44,634 root INFO 7332592838794
+15:19:44,634 root INFO Agent had my travel information available for quick and easy reference.
+15:19:44,634 root INFO 
+15:19:44,634 root INFO 
+15:19:44,634 root INFO 2018-03-12 21:36:59.999996
+15:19:44,634 root INFO 7332592838794
+15:19:44,634 root INFO It was early in morning 
+I got an agent right away very poliet an knew everything i needed helped me with dates an times effectionly
+15:19:44,634 root INFO 
+15:19:44,634 root INFO 
+15:19:44,634 root INFO 2018-03-12 21:56:59.999997
+15:19:44,634 root INFO 7332592838794
+15:19:44,634 root INFO I found that AARP travel was much higher for car rental.  I went directly to rental company and got a better price.
+15:19:44,634 root INFO 
+15:19:44,634 root INFO 
+15:19:44,635 root INFO 2018-03-12 22:20:00.000004
+15:19:44,635 root INFO 7332592838794
+15:19:44,635 root INFO very understandable online and representative on phone most helpful
+15:19:44,635 root INFO 
+15:19:44,635 root INFO 
+15:19:44,635 root INFO 2018-03-13 00:00:00
+15:19:44,635 root INFO 7332592838794
+15:19:44,635 root INFO I shouldnt have been ripped off in tbe first place. I am glad aarp expedia agreed to refund the exessive overcharges after I made contact. Well see. Im still waiting for the refund on my credit card as promised.
+15:19:44,635 root INFO 
+15:19:44,635 root INFO 
+15:19:44,635 root INFO 2018-03-13 02:39:00.000003
+15:19:44,635 root INFO 7332592838794
+15:19:44,635 root INFO They took care of every thing I asked .
+15:19:44,635 root INFO 
+15:19:44,636 root INFO 
+15:19:44,636 root INFO 2018-03-13 08:46:00.000002
+15:19:44,636 root INFO 7332592838794
+15:19:44,636 root INFO Their was no issue to handle, except when I called back after booking my trip to inquire about the airline I was to fly with.
+15:19:44,636 root INFO 
+15:19:44,636 root INFO 
+15:19:44,636 root INFO 2018-03-13 09:15:59.999999
+15:19:44,636 root INFO 7332592838794
+15:19:44,636 root INFO Customer service was very nice and professional and took thectime to help me with a pricevi could afford. It"s stressful having to travel due to a death in the family and customer service helped my husband and I so much. Thank you for going thr extra mile and help us with our flight.
+15:19:44,636 root INFO 
+15:19:44,636 root INFO 
+15:19:44,636 root INFO 2018-03-13 09:36:59.999996
+15:19:44,636 root INFO 7332592838794
+15:19:44,636 root INFO When I used your booking service, I was not issued a United Ticket that I ordered on line.  However,I was charged for a non-existent ticket.  I had to rebook my flight was a higher cost. I am being charged for 2 tickets on the same plane. I want the extra ticket fee taken off my charge card. I have called twice, only to get the same answer:oh, that wrong charge will fall of your credit card in a few days......well it has not "fallen" off my credit card. I feel like I am being taken advantage of and not being taken care of. The person I spoke with was very nice, but not helpful. I never expected that from AARP.  I will think long and hard before I use your service again, unless someone can assure me that this matter will be taken care of.
+15:19:44,637 root INFO 
+15:19:44,637 root INFO 
+15:19:44,637 root INFO 2018-03-13 11:33:00
+15:19:44,637 root INFO 7332592838794
+15:19:44,637 root INFO I am a member of the AARP Expedia. It is easy to deal with the AARP Expedia Team and very helpful.
+15:19:44,637 root INFO 
+15:19:44,637 root INFO 
+15:19:44,637 root INFO 2018-03-13 00:38:59.999997
+15:19:44,637 root INFO 7332592838794
+15:19:44,637 root INFO They were courteous and efficient.
+15:19:44,637 root INFO 
+15:19:44,637 root INFO 
+15:19:44,637 root INFO 2018-03-13 15:26:00.000004
+15:19:44,637 root INFO 7332592838794
+15:19:44,638 root INFO Hold time on phone was for 25-30 minutes two different times without any conversation from agent as to why I was holding or when he would be back
+15:19:44,638 root INFO 
+15:19:44,638 root INFO 
+15:19:44,638 root INFO 2018-03-13 15:45:00
+15:19:44,638 root INFO 7332592838794
+15:19:44,638 root INFO They change a flight I had book ahead of time adding 4 hours to the trip and a layover.  Offered nothing equal and or compensation.  They did cancel the tip as requested but then told me it would take 8 weeks to receive my money back from the cancellation.  I anticipate never seeing that money again.  Not only that but when I checked around to see how good a deal I was getting by using AARP I found there was no value in using AARP but rather another layer of bureaucracy to work through.  Most likely will not be renewing my membership.
+15:19:44,638 root INFO 
+15:19:44,638 root INFO 
+15:19:44,638 root INFO 2018-03-13 15:53:00.000004
+15:19:44,638 root INFO 7332592838794
+15:19:44,638 root INFO I made a booking error in incorrectly naming one of the passengers.  The service rep could easley had said "not my problem"  like one of your competitors did in a similar circustances. I had to pay them a extra fee to get anything done.  In contrast your representive took ownership of my error and got it fixed while I was on the line with no additional fee.   You have no idea how much I appreciated his service.
+15:19:44,638 root INFO 
+15:19:44,638 root INFO 
+15:19:44,639 root INFO 2018-03-13 15:49:00.000002
+15:19:44,639 root INFO 7332592838794
+15:19:44,639 root INFO The representative was able to contact the airline and correct information for me. All I had to do was wait "on hold".
+15:19:44,639 root INFO 
+15:19:44,639 root INFO 
+15:19:44,639 root INFO 2018-03-13 15:22:59.999998
+15:19:44,639 root INFO 7332592838794
+15:19:44,639 root INFO Had already picked options on website
+15:19:44,639 root INFO 
+15:19:44,639 root INFO 
+15:19:44,639 root INFO 2018-03-13 15:47:59.999997
+15:19:44,639 root INFO 7332592838794
+15:19:44,639 root INFO It took nearly 90 minutes on the phone, with several transfers to other agents.  Way too often I was told, "just a short minute please" followed by 5-10 minutes on hold.  Apparently my flights were booked twice, and couldn't be ticketed.  It took WAY too long to figure that out.
+15:19:44,639 root INFO 
+15:19:44,640 root INFO 
+15:19:44,640 root INFO 2018-03-13 16:21:00
+15:19:44,640 root INFO 7332592838794
+15:19:44,640 root INFO Patrick was very helpful and went above and beyond to help me with my bookings. I would have said "very easy" but your system wasn't working properly and made it difficult for both Patrick and I to complete my cancellation.
+15:19:44,640 root INFO 
+15:19:44,640 root INFO 
+15:19:44,640 root INFO 2018-03-13 17:14:00.000004
+15:19:44,640 root INFO 7332592838794
+15:19:44,640 root INFO because they understood me as a valued customer.
+15:19:44,640 root INFO 
+15:19:44,640 root INFO 
+15:19:44,640 root INFO 2018-03-13 18:29:00.000001
+15:19:44,641 root INFO 7332592838794
+15:19:44,641 root INFO I called and the representative was helpful and resolved my issue less than 5 minutes.
+15:19:44,641 root INFO 
+15:19:44,641 root INFO 
+15:19:44,641 root INFO 2018-03-13 18:13:59.999998
+15:19:44,641 root INFO 7332592838794
+15:19:44,641 root INFO Very polite and knowledgeable call center rep
+15:19:44,641 root INFO 
+15:19:44,641 root INFO 
+15:19:44,641 root INFO 2018-03-13 19:00:00.000003
+15:19:44,641 root INFO 7332592838794
+15:19:44,641 root INFO Agent was able to provide all answers and provide options for me if I chose if in the future to make any changes.
+15:19:44,641 root INFO 
+15:19:44,641 root INFO 
+15:19:44,642 root INFO 2018-03-13 21:35:00.000004
+15:19:44,642 root INFO 7332592838794
+15:19:44,642 root INFO would be nice to view travel in either aarp or expedia without have to aarp then travel center then expedia.
+15:19:44,642 root INFO 
+15:19:44,642 root INFO 
+15:19:44,642 root INFO 2018-03-13 22:34:00.000002
+15:19:44,642 root INFO 7332592838794
+15:19:44,642 root INFO Made the phone call and it was quickly handled
+15:19:44,642 root INFO 
+15:19:44,642 root INFO 
+15:19:44,642 root INFO 2018-03-14 01:18:59.999999
+15:19:44,642 root INFO 7332592838794
+15:19:44,642 root INFO We bought and paid for our travel plans back in May and had purchased the cancellation coverage. We had to cancel our plans in September because of an unexpected death in the family.  We received refunds for the rental car and the hotel, but were told that there would be no refund for the air fare, only a credit that had to be used by May, 2018.  We realized that we could use the credit by then, so went back to Expedia to get a cash refund.  Expedia referred us to United Refund.  United issued the refund by check to Travelscape.  We waited about a month waiting for the refund to be forwarded to us; never happened. I called Travelscape, they referred us back to "AARP powered by Expedia".  I called them.  Finally, the refund was credited back to my credit card a 2 days ago.  The process was ridiculous.
+15:19:44,643 root INFO 
+15:19:44,643 root INFO 
+15:19:44,643 root INFO 2018-03-14 05:03:00.000003
+15:19:44,643 root INFO 7332592838794
+15:19:44,643 root INFO I've called several times....it's not that the agents are not friendly or helpful...it's that when you're speaking to someone on the other side of the world, the connections are not great compounded by some language barriers.  It's hard enough to understand people on a cell phone, let alone having individuals that do not speak English well.  My hats off to anyone who wants to work; but this makes my experience less than stellar.
+15:19:44,643 root INFO 
+15:19:44,643 root INFO 
+15:19:44,643 root INFO 2018-03-14 11:57:59.999999
+15:19:44,643 root INFO 7332592838794
+15:19:44,643 root INFO Because after the rude service rep(he was rude when he was talking w/me) left me on hold for several mins talking to the hotel people, it became easy once he got on the all details about our stay worked out.
+15:19:44,643 root INFO 
+15:19:44,643 root INFO 
+15:19:44,643 root INFO 2018-03-14 12:36:59.999996
+15:19:44,644 root INFO 7332592838794
+15:19:44,644 root INFO The agent billed 2 cards no confirmation straight up messed up now I’m waiting for credits so my cards are bac to $0 bal so I can book for 4/9/18. Really unhappy & nervous:
+15:19:44,644 root INFO 
+15:19:44,644 root INFO 
+15:19:44,644 root INFO 2018-03-14 14:06:00
+15:19:44,644 root INFO 7332592838794
+15:19:44,644 root INFO The representative was very competent; figured out the problem and carried out the solution within 5 minutes.
+15:19:44,644 root INFO 
+15:19:44,644 root INFO 
+15:19:44,644 root INFO 2018-03-14 15:58:59.999998
+15:19:44,644 root INFO 7332592838794
+15:19:44,644 root INFO After a long wait on the phone, I was assisted by Muhamed (no idea what his last name is or how to spell his first.  
+He was extremely helpful and courteous.  Other than the very long wait I was pleased with the experience.
+15:19:44,644 root INFO 
+15:19:44,645 root INFO 
+15:19:44,645 root INFO 2018-03-14 16:16:59.999998
+15:19:44,645 root INFO 7332592838794
+15:19:44,645 root INFO I had difficulty understanding the representative and it took me being on the phone for forty minutes for him to tell me I needed to contact the hotel regarding my tour credit.
+15:19:44,645 root INFO 
+15:19:44,645 root INFO 
+15:19:44,645 root INFO 2018-03-14 16:03:00
+15:19:44,645 root INFO 7332592838794
+15:19:44,645 root INFO I made the call, didn't have to wait, the person on the other end was very nice and very efficient.  It was VERY EASY :)
+15:19:44,645 root INFO 
+15:19:44,645 root INFO 
+15:19:44,645 root INFO 2018-03-14 16:02:00.000004
+15:19:44,645 root INFO 7332592838794
+15:19:44,646 root INFO The AARP representative was extremely helpful.
+15:19:44,646 root INFO 
+15:19:44,646 root INFO 
+15:19:44,646 root INFO 2018-03-14 16:09:00.000003
+15:19:44,646 root INFO 7332592838794
+15:19:44,646 root INFO Customer service rep was friendly but process way way 2 long. Seemed 2 ask the same questions over and over
+15:19:44,646 root INFO 
+15:19:44,646 root INFO 
+15:19:44,646 root INFO 2018-03-14 16:16:59.999998
+15:19:44,646 root INFO 7332592838794
+15:19:44,646 root INFO They were helpful when I finally got through. Took about 25 minutes though.
+15:19:44,646 root INFO 
+15:19:44,646 root INFO 
+15:19:44,647 root INFO 2018-03-14 17:15:59.999996
+15:19:44,647 root INFO 7332592838794
+15:19:44,647 root INFO It just took a little longer than I thought it would take.
+15:19:44,647 root INFO 
+15:19:44,647 root INFO 
+15:19:44,647 root INFO 2018-03-14 17:57:59.999999
+15:19:44,647 root INFO 7332592838794
+15:19:44,647 root INFO some of the procedures I wasn't familiar with and had to back tract/call a second time for further information and help in finishing my booking.
+15:19:44,647 root INFO 
+15:19:44,647 root INFO 
+15:19:44,647 root INFO 2018-03-14 18:09:59.999996
+15:19:44,647 root INFO 7332592838794
+15:19:44,647 root INFO When I got to my motel room.  I first of all the reservation had not yet been emailed to the motel.  I had made the reservation about 1/1/2 hours before.  I called Expedia and explained the situation. Eventually the email came through but it had been made for the incorrect date.  I went through many other questions asked, then finally was told I needed to talk with Expedia through AARP.  So I called them and was asked about all the same questions and through a series of calls between the motel and myself it took over an 1 1/2 hours to get the situation resolved.  To me it was ridiculous that it should take this long, just to switch the date.  In addition, I could hardly understand either one of the Expedia personnel I spoke with.  Their accents were very difficult to understand the information they were attempting to share. When I asked questions of them, I felt they were never answered and all they did was kept saying the same things over and over.  Very poor customer service.  I have always been happy with when Dealing with AARP on matters, so feel this poor service came from Expedia.  If it is someone's job to assist customers with their issues, then the person should at least be able to be understood over the phone!
+15:19:44,647 root INFO 
+15:19:44,648 root INFO 
+15:19:44,648 root INFO 2018-03-14 17:33:59.999996
+15:19:44,648 root INFO 7332592838794
+15:19:44,648 root INFO Information was displayed and arranged for easy access.
+15:19:44,648 root INFO 
+15:19:44,648 root INFO 
+15:19:44,648 root INFO 2018-03-14 17:53:59.999997
+15:19:44,648 root INFO 7332592838794
+15:19:44,648 root INFO Easy
+15:19:44,648 root INFO 
+15:19:44,648 root INFO 
+15:19:44,648 root INFO 2018-03-14 18:09:59.999996
+15:19:44,648 root INFO 7332592838794
+15:19:44,648 root INFO They we're courteous and took care of the problem.
+15:19:44,649 root INFO 
+15:19:44,649 root INFO 
+15:19:44,649 root INFO 2018-03-14 19:54:00.000003
+15:19:44,649 root INFO 7332592838794
+15:19:44,649 root INFO Fast response, great attitude of the rep ( wish I remembered her name she deserves kudos) and clean resolution
+15:19:44,649 root INFO 
+15:19:44,649 root INFO 
+15:19:44,649 root INFO 2018-03-14 19:56:00.000004
+15:19:44,649 root INFO 7332592838794
+15:19:44,649 root INFO Representative knew how to resolve issue ... without delay!
+15:19:44,649 root INFO 
+15:19:44,649 root INFO 
+15:19:44,649 root INFO 2018-03-14 20:48:59.999999
+15:19:44,649 root INFO 7332592838794
+15:19:44,650 root INFO I told them what i was looking for,and the came up with a deal
+15:19:44,650 root INFO 
+15:19:44,650 root INFO 
+15:19:44,650 root INFO 2018-03-14 20:32:00.000004
+15:19:44,650 root INFO 7332592838794
+15:19:44,650 root INFO I have trouble making reservations I get nervous that I'm doing the wrong thing AARP was so helpful, made me feel so confident, I'll let you know how things go after my trip!
+15:19:44,650 root INFO 
+15:19:44,650 root INFO 
+15:19:44,650 root INFO 2018-03-14 20:51:00
+15:19:44,650 root INFO 7332592838794
+15:19:44,650 root INFO I had to cancel my my trip to Arizona due to my uncle a military vet had passed away on Saturday then his sister passed away on Tuesday , so I guess your company is heartless because you think I should have gone to Arizona instead of saying good bye to my family and I was charged full amount for the room.
+15:19:44,651 root INFO 
+15:19:44,651 root INFO 
+15:19:44,651 root INFO 2018-03-14 21:51:00.000003
+15:19:44,651 root INFO 7332592838794
+15:19:44,651 root INFO The service rep was very helpful
+15:19:44,651 root INFO 
+15:19:44,651 root INFO 
+15:19:44,651 root INFO 2018-03-15 00:00:59.999996
+15:19:44,651 root INFO 7332592838794
+15:19:44,651 root INFO The helper took the responsibility to deal,with the hotel for a refund.
+15:19:44,651 root INFO 
+15:19:44,651 root INFO 
+15:19:44,651 root INFO 2018-03-15 02:41:00.000004
+15:19:44,652 root INFO 7332592838794
+15:19:44,652 root INFO Able to quickly reach an agent who was able to give me the assistance that I needed.
+15:19:44,652 root INFO 
+15:19:44,652 root INFO 
+15:19:44,652 root INFO 2018-03-15 08:41:00.000004
+15:19:44,652 root INFO 7332592838794
+15:19:44,652 root INFO The first call I made because of an email I received regarding a flight change was not handled efficiently.  The rep had me on the phone almost two hours.  During 45 minutes of that time I was on hold with no correspondence.  I hung up and called again and spoke to Henecdicp who apologized and handle my flight change within 15 minutes.  She was professional and very knowledgeable regarding her job.
+15:19:44,652 root INFO 
+15:19:44,653 root INFO 
+15:19:44,653 root INFO 2018-03-15 10:41:59.999997
+15:19:44,653 root INFO 7332592838794
+15:19:44,653 root INFO When originally calling to book tickets, I was specific in my questions and requests. I paid for and was given incorrect items. The inconvenience factor was a big turn off.
+15:19:44,653 root INFO 
+15:19:44,653 root INFO 
+15:19:44,653 root INFO 2018-03-15 11:51:59.999996
+15:19:44,653 root INFO 7332592838794
+15:19:44,653 root INFO I don't feel that we got any discounts by going through AARP travel, I think we would have been better to just go through one of the sites on the internet.
+15:19:44,653 root INFO 
+15:19:44,653 root INFO 
+15:19:44,653 root INFO 2018-03-15 13:03:59.999996
+15:19:44,653 root INFO 7332592838794
+15:19:44,654 root INFO Technician did not volunteer services needed on the call.
+15:19:44,654 root INFO 
+15:19:44,654 root INFO 
+15:19:44,654 root INFO 2018-03-15 14:53:00.000001
+15:19:44,654 root INFO 7332592838794
+15:19:44,654 root INFO Problem with cancelling reservation in time not toget penalized.  I could not find my Itinerary #.
+Associate quickly located the Itinerary information and cancelled my room reservation for Mcalester, OK.
+15:19:44,654 root INFO 
+15:19:44,654 root INFO 
+15:19:44,654 root INFO 2018-03-15 15:26:00.000004
+15:19:44,654 root INFO 7332592838794
+15:19:44,654 root INFO Because I was on hold for 20 mins and everything done was done wrong on expedia part
+15:19:44,654 root INFO 
+15:19:44,654 root INFO 
+15:19:44,654 root INFO 2018-03-15 16:45:59.999999
+15:19:44,654 root INFO 7332592838794
+15:19:44,654 root INFO The Lady on the phone, Rena, was so very helpful and courteous.  She answered my questions and even helped me get my flight seats on American airlines.  Excellent service, will use again.
+15:19:44,655 root INFO 
+15:19:44,655 root INFO 
+15:19:44,655 root INFO 2018-03-15 16:39:59.999996
+15:19:44,655 root INFO 7332592838794
+15:19:44,655 root INFO I just had to select the car I wanted and add the insurance.
+15:19:44,655 root INFO 
+15:19:44,655 root INFO 
+15:19:44,655 root INFO 2018-03-15 17:21:59.999999
+15:19:44,655 root INFO 7332592838794
+15:19:44,655 root INFO The customer service reps at both Expedia & AARP  told me that I was getting a discount already in my 'pre-booking price' when this was not at all true.  I had previously done comparison shopping on other websites.  When I asked AARP's help in getting Economy Car Rental to honor the AARP Discount, I was referred to Expedia Cust. Svc.  Expedia said I was 'already getting a discounted rate' which was simply NOT true.  Also, I was additonally charged $11.95/day for my 7 day rental as Economy claimed my auto insurance policy did not carry enough Liability coverage.  There was NO MENTION as to any Liability Coverage requirements prior to my booking the rental. I was simply instructed to bring my auto ins.policy's Declaration Page and that I could use my own auto ins.policy coverage instead.  I DID NOT APPRECIATE the 'Bait & Switch' routine I got when I arrived at the airport.  On top of it, Expedia told me I 'only get a discount on the car rental, not the extra insurance I was required to buy'.  Really?  Where was this 'New Rule'?  My guess is it was made up on the spot like the 'I already got a discount' rule.  I will never again use AARP, Expedia or Economy in booking any car rentals and I will tell EVERYONE ELSE not to do so either.
+15:19:44,655 root INFO 
+15:19:44,655 root INFO 
+15:19:44,655 root INFO 2018-03-15 17:10:00.000002
+15:19:44,656 root INFO 7332592838794
+15:19:44,656 root INFO Representative was efficient.
+15:19:44,656 root INFO 
+15:19:44,656 root INFO 
+15:19:44,656 root INFO 2018-03-15 17:06:00
+15:19:44,656 root INFO 7332592838794
+15:19:44,656 root INFO Because the customer service agent had to call the hotel to resolve my issue.
+15:19:44,656 root INFO 
+15:19:44,656 root INFO 
+15:19:44,656 root INFO 2018-03-15 18:22:00.000002
+15:19:44,656 root INFO 7332592838794
+15:19:44,656 root INFO Miss McCane handled our issue and she did fanatic job and explained everything making the process smooth and easy.
+15:19:44,656 root INFO 
+15:19:44,657 root INFO 
+15:19:44,657 root INFO 2018-03-15 19:07:00.000002
+15:19:44,657 root INFO 7332592838794
+15:19:44,657 root INFO Concise explanations
+15:19:44,657 root INFO 
+15:19:44,657 root INFO 
+15:19:44,657 root INFO 2018-03-15 20:33:00
+15:19:44,657 root INFO 7332592838794
+15:19:44,657 root INFO I was unable to get an answer why we could not get a seat assignment from atl to rsw.  I was not aware i bought a special ticket that would not allow me to have a seat assignment.  was not made clear when purchasing ticket online.  
+
+Still do not have an answer on my budget car rental in arizona.  Not sure they checked me in and gave me the inconvenience credit
+15:19:44,657 root INFO 
+15:19:44,657 root INFO 
+15:19:44,657 root INFO 2018-03-15 20:37:00.000002
+15:19:44,657 root INFO 7332592838794
+15:19:44,657 root INFO Easily reached via phone and when long expected wait time was identified, I accepted offer of call back process which worked well.
+15:19:44,657 root INFO 
+15:19:44,658 root INFO 
+15:19:44,658 root INFO 2018-03-15 20:21:00.000003
+15:19:44,658 root INFO 7332592838794
+15:19:44,658 root INFO Representative very helpful
+15:19:44,658 root INFO 
+15:19:44,658 root INFO 
+15:19:44,658 root INFO 2018-03-15 19:56:00.000004
+15:19:44,658 root INFO 7332592838794
+15:19:44,658 root INFO Because we bought the travel insurance from Expedia for our flight on Spirit. We needed to change the dates. Found out we couldn’t. The insurance was only for health. Spirit told us to call aarp and aarp. We are out 537.00$ No refund from either.
+15:19:44,658 root INFO 
+15:19:44,658 root INFO 
+15:19:44,658 root INFO 2018-03-16 06:24:59.999999
+15:19:44,659 root INFO 7332592838794
+15:19:44,659 root INFO Called Expedia direct agent was not helpful at all .Called AARP Travel center and got problem solved very quickly
+15:19:44,659 root INFO 
+15:19:44,659 root INFO 
+15:19:44,659 root INFO 2018-03-16 10:36:00.000003
+15:19:44,659 root INFO 7332592838794
+15:19:44,659 root INFO I received a call after a cancellation on one of the legs of my trip. I had trouble understanding the individual due to accent and phone connection being bad.  I requested to send it in an email and I would respond.
+15:19:44,659 root INFO 
+15:19:44,659 root INFO 
+15:19:44,659 root INFO 2018-03-16 13:14:00.000001
+15:19:44,659 root INFO 7332592838794
+15:19:44,659 root INFO The agent gave me a quote of $679.00 and said that the ticket agent will give me the 30% discount.  I said that's impossible because I've rented cars through AARP and they've given me the actual amount once I book the car. Next day I called AARP travel center by Expedia to confirm and was put on hold for 25 minutes or more.  The agent the night before didn't take my e-mail correctly and just as I said the the 30% was already taken out.  The total amount was $679.00 (I had to cancelled my resv.)  I was given a $50 at a hotel to use within the year.  Why not send me a gift card.
+15:19:44,659 root INFO 
+15:19:44,660 root INFO 
+15:19:44,660 root INFO 2018-03-16 15:51:59.999999
+15:19:44,660 root INFO 7332592838794
+15:19:44,660 root INFO It was very easy to change dates and times if needed so.
+Customer service is also very good and polite.
+15:19:44,660 root INFO 
+15:19:44,660 root INFO 
+15:19:44,660 root INFO 2018-03-16 16:07:59.999998
+15:19:44,660 root INFO 7332592838794
+15:19:44,660 root INFO I needed assistance from an AARP Travel Center representative.   He was patient and courteous.   I could not have resolved the problem on my own.   He die resolve the problem.
+15:19:44,660 root INFO 
+15:19:44,660 root INFO 
+15:19:44,660 root INFO 2018-03-16 16:02:00.000004
+15:19:44,660 root INFO 7332592838794
+15:19:44,660 root INFO Very user friendly plus there is a phone number you can use to ask questions with a real person.
+15:19:44,661 root INFO 
+15:19:44,661 root INFO 
+15:19:44,661 root INFO 2018-03-16 15:27:59.999996
+15:19:44,661 root INFO 7332592838794
+15:19:44,661 root INFO I sent an email which wasn’t responded to after 2 days.  I ended up calling for assistance.  I also found a much better rate for a car rental on another site.
+15:19:44,661 root INFO 
+15:19:44,661 root INFO 
+15:19:44,661 root INFO 2018-03-16 16:16:59.999998
+15:19:44,661 root INFO 7332592838794
+15:19:44,661 root INFO My issue was finally resolved by phone,but it took 90 minutes
+15:19:44,661 root INFO 
+15:19:44,661 root INFO 
+15:19:44,661 root INFO 2018-03-16 17:19:59.999998
+15:19:44,661 root INFO 7332592838794
+15:19:44,661 root INFO The operators were friendly and professional.  I had called three times with different issues planning two trips.  My problems were handled quickly and with great results.  Thank you!
+15:19:44,662 root INFO 
+15:19:44,662 root INFO 
+15:19:44,662 root INFO 2018-03-16 16:34:00.000002
+15:19:44,662 root INFO 7332592838794
+15:19:44,662 root INFO Great service and easy to understand process.
+15:19:44,662 root INFO 
+15:19:44,662 root INFO 
+15:19:44,662 root INFO 2018-03-16 16:57:00
+15:19:44,662 root INFO 7332592838794
+15:19:44,662 root INFO First it was very difficult to understand your agents I had to ask repeatedly for them to slow down so I could understand them.  Second, the issue I have has still not been resolved.  I was told I would be contacted via email within 24 to 48 hrs with a resolution but nothing as yet.
+
+I had to make numerous return calls when I was told I would be contacted by your agents.  Overall my experience was far less than satisfactory.
+15:19:44,662 root INFO 
+15:19:44,662 root INFO 
+15:19:44,662 root INFO 2018-03-16 17:01:00.000002
+15:19:44,662 root INFO 7332592838794
+15:19:44,663 root INFO I explained my problem and your staff person understood right away and offered an easy solution. He didn’t explain his thought process initially so it took me a couple of minutes to understand his proposed solution.
+15:19:44,663 root INFO 
+15:19:44,663 root INFO 
+15:19:44,663 root INFO 2018-03-16 17:24:59.999996
+15:19:44,663 root INFO 7332592838794
+15:19:44,663 root INFO language barrier/ accent of rep made it difficult to understand her and resolve my issue in a timely manner
+15:19:44,663 root INFO 
+15:19:44,663 root INFO 
+15:19:44,663 root INFO 2018-03-16 18:04:00.000002
+15:19:44,663 root INFO 7332592838794
+15:19:44,663 root INFO Took a day and a half to issue the airline tickets. I wanted to gets seats so I had to wait.
+15:19:44,663 root INFO 
+15:19:44,663 root INFO 
+15:19:44,663 root INFO 2018-03-16 17:39:59.999999
+15:19:44,663 root INFO 7332592838794
+15:19:44,663 root INFO Getting to the correct person.
+15:19:44,664 root INFO 
+15:19:44,664 root INFO 
+15:19:44,664 root INFO 2018-03-16 17:55:59.999998
+15:19:44,664 root INFO 7332592838794
+15:19:44,664 root INFO The agent understood my concerns and corrected my reservation.
+15:19:44,664 root INFO 
+15:19:44,664 root INFO 
+15:19:44,664 root INFO 2018-03-16 20:12:59.999999
+15:19:44,664 root INFO 7332592838794
+15:19:44,664 root INFO I was on hold for a very short time. She looked up my account in seconds and first tried to fix it herself. When she was not able to fix it, I asked if we could just cancel it and I’d start over and pick a different flight that would meet my needs. She said yes, and canceled it. I have already received a notice that my card was credited. Excellent service.
+15:19:44,664 root INFO 
+15:19:44,664 root INFO 
+15:19:44,664 root INFO 2018-03-16 21:18:59.999996
+15:19:44,664 root INFO 7332592838794
+15:19:44,664 root INFO Great customer service.  Thanks you for providing this amenity to us members.
+15:19:44,665 root INFO 
+15:19:44,665 root INFO 
+15:19:44,665 root INFO 2018-03-16 22:16:00.000002
+15:19:44,665 root INFO 7332592838794
+15:19:44,665 root INFO The rep was a saint--patient and knowledgeable. But what started as an online reservation of an extra large minivan for Albany NY today got confirmed as a tiny 3.33 car in Cancun for June. I couldn't back out, cancel or change. Took something like 2-1/2 hour phone call to fix the glitch, credit my card for the first reservation, and make and charge the second reservation. But like I said, the rep was super pleasant, checked back every few minutes, and got it worked out. He even thanked me for my patience and for calling it to your attention so you could fix it.
+15:19:44,665 root INFO 
+15:19:44,665 root INFO 
+15:19:44,665 root INFO 2018-03-15 07:48:00
+15:19:44,665 root INFO 7332592838794
+15:19:44,665 root INFO very helpful, very accomodating, wanted to please, excellent customer service!
+15:19:44,665 root INFO 
+15:19:44,665 root INFO 
+15:19:44,665 root INFO 2018-03-17 12:08:00.000004
+15:19:44,666 root INFO 7332592838794
+15:19:44,666 root INFO LaQuinta hotel was filthy and had roaches. I requested Expedia to move to another hotel and was told by CS that "Management would have to make that decision". No one has called me yet. I had to pay for 2nd hotel out of pocket.
+15:19:44,666 root INFO 
+15:19:44,666 root INFO 
+15:19:44,666 root INFO 2018-03-17 12:00:00
+15:19:44,666 root INFO 7332592838794
+15:19:44,666 root INFO The prompts are user friendly and the representative was  very friendly and knowledgeable.
+15:19:44,666 root INFO 
+15:19:44,666 root INFO 
+15:19:44,666 root INFO 2018-03-17 12:35:00.000004
+15:19:44,667 root INFO 7332592838794
+15:19:44,667 root INFO I explained our situation, rep made a phone call to confirm and then proceeded to resolve our problem.
+15:19:44,667 root INFO 
+15:19:44,667 root INFO 
+15:19:44,667 root INFO 2018-03-17 18:13:59.999998
+15:19:44,667 root INFO 7332592838794
+15:19:44,667 root INFO I felt like I had to explain multiple times to the phone rep the situation, plus, I was told Expedia would do something and it wasn't done
+15:19:44,667 root INFO 
+15:19:44,667 root INFO 
+15:19:44,667 root INFO 2018-03-17 19:30:00
+15:19:44,668 root INFO 7332592838794
+15:19:44,668 root INFO It was difficult to get my refund on tickets that I had booked through ARP and Expedia and they booked me on something they were hop-on hop-off Ferry tickets New York water taxi tickets and the day they booked me they weren't even open and I plan the whole day doing that and it ruined my whole day
+15:19:44,668 root INFO 
+15:19:44,668 root INFO 
+15:19:44,668 root INFO 2018-03-18 07:12:00
+15:19:44,668 root INFO 7332592838794
+15:19:44,668 root INFO It was quick & easy!
+15:19:44,668 root INFO 
+15:19:44,668 root INFO 
+15:19:44,668 root INFO 2018-03-18 11:41:00.000004
+15:19:44,668 root INFO 7332592838794
+15:19:44,668 root INFO We came up with a workable flight schedule for our trip.
+15:19:44,668 root INFO 
+15:19:44,668 root INFO 
+15:19:44,669 root INFO 2018-03-18 15:09:59.999996
+15:19:44,669 root INFO 7332592838794
+15:19:44,669 root INFO there was a language barrier
+15:19:44,669 root INFO 
+15:19:44,669 root INFO 
+15:19:44,669 root INFO 2018-03-18 18:42:00.000003
+15:19:44,669 root INFO 7332592838794
+15:19:44,669 root INFO I felt like I was left stranded when I called for help about the rental car.  When I had an issue extending the length of time I needed the car I was told by AARP that the booking was handled by Expedia and I had to call them. Then Expedia said there was nothing they could do and I had to call Payless directly.
+I did speak to a supervisor at AARP on the third or 4th time I called for help and she was very nice but said I would have to wait an hour and a half on the phone with her while she called Payless.  I had already been on hold for and hour and a half myself waiting for a Payless supervisor so I told her I would not wait another hour and a half
+15:19:44,669 root INFO 
+15:19:44,669 root INFO 
+15:19:44,669 root INFO 2018-03-18 19:41:59.999997
+15:19:44,669 root INFO 7332592838794
+15:19:44,669 root INFO Flight got delayed/called Budget, Expedia & AARP for help with delayed pick up of rental car. It took hours & was ultimately told I had to cancel & rebook to the tune of an additional $300. Will never use AARP again to book ANYTHING. Why bother being a member???
+15:19:44,669 root INFO 
+15:19:44,670 root INFO 
+15:19:44,670 root INFO 2018-03-18 21:18:00
+15:19:44,670 root INFO 7332592838794
+15:19:44,670 root INFO My only complaint would be wait time to reach an agent.  However, very
+Helpful to be told how
+Long to expect to wait.  And to have option to b called back. 
+
+When I explained problem to agent, she was EXTREMELY helpful, resourceful, and patient. I was in a real
+Jam with car rental problem: agent checked with her supervisor and saved the day for me!!  Completely saved my day!!!!
+15:19:44,670 root INFO 
+15:19:44,670 root INFO 
+15:19:44,670 root INFO 2018-03-19 15:24:59.999999
+15:19:44,670 root INFO 7332592838794
+15:19:44,670 root INFO Our son became very ill and we were told he could not travel the morning we were to leave for Donna's class reunion.  We were told that parents had lost their children who had pneumonia/flu like Nathan when they took them on trips this year. I called and explained our problem to AARP Travel and they sold our rooms to someone else and gave us a refund.  Our son is still not well but is over the critical stage we think.  We are thankful to AARP Travel for helping reduce the stress in this bad situation.  Donna is heartsick she missed her 45th reunion but would not jeapordize Nathan's recovery for any thing.
+15:19:44,670 root INFO 
+15:19:44,670 root INFO 
+15:19:44,670 root INFO 2018-03-19 15:22:00.000002
+15:19:44,670 root INFO 7332592838794
+15:19:44,671 root INFO your staff was friendly and courteous and very helpful - they were able to get me a full refund after my flight was delayed and I could not make my connecting flight.  I was very pleased with the service I received.
+15:19:44,671 root INFO 
+15:19:44,671 root INFO 
+15:19:44,671 root INFO 2018-03-19 15:00:00
+15:19:44,671 root INFO 7332592838794
+15:19:44,671 root INFO First representative told me to call American AIRLINES to solve the issue. After an hour I Found out that was not true. On the phone for 2 hours to book NEW flights when my original flights were no longer available ( after YOU confirmed they were). No compensation for the extra hours of travel and longer inconvenience through the whole process. Tommy who helped rebook did the best he could. Inexcusable bad experience.
+15:19:44,671 root INFO 
+15:19:44,671 root INFO 
+15:19:44,671 root INFO 2018-03-19 15:18:00
+15:19:44,671 root INFO 7332592838794
+15:19:44,671 root INFO Thank you for the great customer service.  It made me feel good for such great service, especially when I really needed it.
+15:19:44,671 root INFO 
+15:19:44,671 root INFO 
+15:19:44,671 root INFO 2018-03-19 15:47:59.999997
+15:19:44,672 root INFO 7332592838794
+15:19:44,672 root INFO I wanted to resolve
+An issue and 7 days later still
+Have not heard anything and no one could give me any answers
+15:19:44,672 root INFO 
+15:19:44,672 root INFO 
+15:19:44,672 root INFO 2018-03-19 15:38:59.999997
+15:19:44,672 root INFO 7332592838794
+15:19:44,672 root INFO professionalism.
+15:19:44,672 root INFO 
+15:19:44,672 root INFO 
+15:19:44,672 root INFO 2018-03-19 16:30:59.999996
+15:19:44,672 root INFO 7332592838794
+15:19:44,672 root INFO We placed a call to Expedia on the night of our arrival at Motel 6 but our issue could not be handled with that customer service rep.
+15:19:44,672 root INFO 
+15:19:44,672 root INFO 
+15:19:44,673 root INFO 2018-03-19 15:58:00.000002
+15:19:44,673 root INFO 7332592838794
+15:19:44,673 root INFO There is an 800 # and a person to vent
+15:19:44,673 root INFO 
+15:19:44,673 root INFO 
+15:19:44,673 root INFO 2018-03-19 16:48:00
+15:19:44,673 root INFO 7332592838794
+15:19:44,673 root INFO There is no resolution for my question at this time HOWEVER the young lady explained to me WHY it was the way it was. I have an expedia-aarp AND an expedia login, both with the same email and password. AT THIS TIME one cannot see the other in your purchased TRIPS so that was the issue. I had booked a hotel with one and all my airfare with the other. NO PROBLEM but as a computer professional, I was surprised and am currently working on a patch for that for you all.
+15:19:44,673 root INFO 
+15:19:44,673 root INFO 
+15:19:44,673 root INFO 2018-03-19 17:23:00.000004
+15:19:44,673 root INFO 7332592838794
+15:19:44,673 root INFO no delay prompt service
+15:19:44,673 root INFO 
+15:19:44,673 root INFO 
+15:19:44,674 root INFO 2018-03-19 16:47:00.000004
+15:19:44,674 root INFO 7332592838794
+15:19:44,674 root INFO My wife and I have spoken wit 3 different Reps in the past week and each one of them was so helpful no matter what we ask. They were all very kind and personal and made us feel like family. It was wonderful to be able to speak someone who I could understand and they could understand me. The selection system was quite easy to us also. Thanks to all of you.
+David McKee, Meadowview, Va.
+15:19:44,674 root INFO 
+15:19:44,674 root INFO 
+15:19:44,674 root INFO 2018-03-19 18:09:00
+15:19:44,674 root INFO 7332592838794
+15:19:44,674 root INFO I spent over 2 hours with AARP/Expedia customer service to fix an error caused by Expedia. I cancelled a reservation for lodging (Travelodge, Holbook, AZ)and Expedia sent me a reservation confirmation email. However, Expedia did not notify Travelodge of the cancellation. Therefor, I was still charged for the room by Travelodge on my VISA. After 2 hours, I finally was transferred to a supervisor named Shannon Mardell and she was great and helped me. This issue should have been fixed quickly (within 10 minutes. Instead I had to argue with an incompetent customer service rep. until 11:30 P.M. at night.  How about a little TLC for an abused AARP member and a frequent traveler!
+15:19:44,674 root INFO 
+15:19:44,674 root INFO 
+15:19:44,674 root INFO 2018-03-19 17:44:00.000001
+15:19:44,674 root INFO 7332592838794
+15:19:44,674 root INFO I was no longer able to get precheck and United said it was not in your system so I called. The agent who helped me took care of it and also put my KTN in my upcoming flights also.
+15:19:44,675 root INFO 
+15:19:44,675 root INFO 
+15:19:44,675 root INFO 2018-03-19 19:12:00
+15:19:44,675 root INFO 7332592838794
+15:19:44,675 root INFO The costumer Service was very helpful and resolved my problems promptly.
+Very good service.
+15:19:44,675 root INFO 
+15:19:44,675 root INFO 
+15:19:44,675 root INFO 2018-03-19 19:16:00.000002
+15:19:44,675 root INFO 7332592838794
+15:19:44,675 root INFO When I called to change my hotel reservation the person I spoke to was extremely helpful and changed my reservation without any issues.
+15:19:44,675 root INFO 
+15:19:44,675 root INFO 
+15:19:44,675 root INFO 2018-03-19 19:25:59.999998
+15:19:44,675 root INFO 7332592838794
+15:19:44,676 root INFO After an hour they couldn't find a room I wanted, when my one week in advance reservation,was given to someoneelse,w which left us without a motel for the night
+15:19:44,676 root INFO 
+15:19:44,676 root INFO 
+15:19:44,676 root INFO 2018-03-19 19:12:59.999996
+15:19:44,676 root INFO 7332592838794
+15:19:44,676 root INFO he knew whst my concern was and took his time with me.
+15:19:44,676 root INFO 
+15:19:44,676 root INFO 
+15:19:44,676 root INFO 2018-03-19 19:45:59.999999
+15:19:44,676 root INFO 7332592838794
+15:19:44,676 root INFO The woman I was working with insisted on repeating information multiple times to insure it was correct. While, of course the information must be repeated back to insure accuracy, one or two times is sufficient unless the customer requests that it be repeated again.
+15:19:44,676 root INFO 
+15:19:44,676 root INFO 
+15:19:44,677 root INFO 2018-03-20 00:49:00.000002
+15:19:44,677 root INFO 7332592838794
+15:19:44,677 root INFO First, you took my AARP Number but you offered No better price than Regular Expedia!(Same exact price) No AARP Discount offered, no free seat assignment, no Booking numbers at all! I had too call 4 airlines so far wasting 2 hours of my time! and I still can not get my return trip Regional Air Booking number(in case you haven't flown in a while ? you need Booking numbers to obtain a "Boarding Pass") Your AARP Expedia email contains No Booking numbers.
+SECOND:  when I tried to pay for the tickets VISA this AARP Fake website took 6 min. to connect with expedia and then with my bank, that's far too long for any banking transaction! You will get hacked! or what if the connection drops dead- you just lost a 600.00 transaction! In the future, just offer a Discount Code in your magazine that people can use on the regular Expedia website and drop this non-functional AARP sudo website! it was even frustration trying to find it in the first place, jou tell it to go back to find your flight or change date and it takes you back to some other page of AARP Benefits! This website and who sold it to you should be canned! You are losing Millions!
+15:19:44,677 root INFO 
+15:19:44,677 root INFO 
+15:19:44,677 root INFO 2018-03-20 07:23:59.999997
+15:19:44,677 root INFO 7332592838794
+15:19:44,677 root INFO SO FAR, I HAVE BEEN SATISFIED WITH THE SERVICES.
+15:19:44,677 root INFO 
+15:19:44,677 root INFO 
+15:19:44,677 root INFO 2018-03-20 08:15:59.999996
+15:19:44,677 root INFO 7332592838794
+15:19:44,678 root INFO It was my birthday I called to get my room cancelled or changed and got no help or any compensation for my inconvenience. Offered a $50 refund or coupon and even that is under question. Horrible experience won’t be using this for upcoming summer vacations.
+15:19:44,678 root INFO 
+15:19:44,678 root INFO 
+15:19:44,678 root INFO 2018-03-20 09:22:59.999998
+15:19:44,678 root INFO 7332592838794
+15:19:44,678 root INFO You let us book a hotel that does not have any rooms available when we check in on Wed 3/14. In a prime location why would you represent a hotel that is okay to overbook during Spring Break? We had 3 small children and La Quinta wanted to put us up at a Days Inn...REALLY I book a hotel for 225.00 a night and they want me to go stay at a $55.00 a night?  You have got to be kidding, was the worst experience ever, I would like compensation for being put out
+15:19:44,678 root INFO 
+15:19:44,678 root INFO 
+15:19:44,678 root INFO 2018-03-20 12:24:59.999999
+15:19:44,678 root INFO 7332592838794
+15:19:44,678 root INFO Well I did not read the “fine print” when I booked the airline.  I was not allowed to put my luggage in the overhead bin and charged an additional $50.00 to check the bag.  Unfair and horrible.
+15:19:44,678 root INFO 
+15:19:44,678 root INFO 
+15:19:44,678 root INFO 2018-03-20 12:38:00.000001
+15:19:44,679 root INFO 7332592838794
+15:19:44,679 root INFO Had to contact AARP/Expedia 4 times to ensure flight data for trip was correct.
+15:19:44,679 root INFO 
+15:19:44,679 root INFO 
+15:19:44,679 root INFO 2018-03-20 14:37:59.999998
+15:19:44,679 root INFO 7332592838794
+15:19:44,679 root INFO The woman on the phone understood what I needed & hooked it up.
+15:19:44,679 root INFO 
+15:19:44,679 root INFO 
+15:19:44,679 root INFO 2018-03-20 15:40:59.999998
+15:19:44,679 root INFO 7332592838794
+15:19:44,679 root INFO Hotel was cancelled due to Expedia payment declining at hotel. CS rep worked for 3 hours to find a hotel. During the 3rd hour, we find out that the first hotel we suggested for her to call was in fact available. Very stressful interaction.
+15:19:44,679 root INFO 
+15:19:44,679 root INFO 
+15:19:44,680 root INFO 2018-03-20 15:40:59.999998
+15:19:44,680 root INFO 7332592838794
+15:19:44,680 root INFO Was quick.
+15:19:44,680 root INFO 
+15:19:44,680 root INFO 
+15:19:44,680 root INFO 2018-03-20 16:20:00.000004
+15:19:44,680 root INFO 7332592838794
+15:19:44,680 root INFO The lady that worked with my wife was great. Patient and stayed with us on the issue.
+Top notch.
+15:19:44,680 root INFO 
+15:19:44,680 root INFO 
+15:19:44,680 root INFO 2018-03-20 16:25:59.999998
+15:19:44,680 root INFO 7332592838794
+15:19:44,680 root INFO I needed to cancel one night of a hotel reservation.  The agent did this for me and contacted the hotel directly to see if I could get a refund for the night I had to cancel.  I was able to get a refund, but the night I did stay ended up being slightly more expensive than when I originally booked the reservation.  All in all, I came out ahead.
+15:19:44,680 root INFO 
+15:19:44,681 root INFO 
+15:19:44,681 root INFO 2018-03-20 15:47:59.999997
+15:19:44,681 root INFO 7332592838794
+15:19:44,681 root INFO Drop down menu for car rental only had "one" as a selection for infant car seat, and I needed 2 infant car seats.  One call to the Avis rental car counter at the airport, and one call to AARP-Expdiea assured me I would have 2 infant car seats.
+15:19:44,681 root INFO 
+15:19:44,681 root INFO 
+15:19:44,681 root INFO 2018-03-20 16:57:00
+15:19:44,681 root INFO 7332592838794
+15:19:44,681 root INFO Issue not resolved. Hotel lied. I called them myself and sent an updated email to expedia to call hotel back as they agreed to refund my money. Now waiting for expedia.
+15:19:44,681 root INFO 
+15:19:44,681 root INFO 
+15:19:44,681 root INFO 2018-03-20 16:45:59.999999
+15:19:44,681 root INFO 7332592838794
+15:19:44,682 root INFO The person who helped me was very nice and tried to do
+the best she could with my change of date to check in 
+at the Baymont Hotel in Anderson, SC.  I am still waiting for the hotel to let me know if they will honor
+the cost at the time I booked the room.
+15:19:44,682 root INFO 
+15:19:44,682 root INFO 
+15:19:44,682 root INFO 2018-03-20 17:21:59.999999
+15:19:44,682 root INFO 7332592838794
+15:19:44,682 root INFO Budget rental computers were down
+15:19:44,682 root INFO 
+15:19:44,682 root INFO 
+15:19:44,682 root INFO 2018-03-20 17:46:00.000002
+15:19:44,682 root INFO 7332592838794
+15:19:44,682 root INFO It is still not resolved.
+15:19:44,682 root INFO 
+15:19:44,682 root INFO 
+15:19:44,682 root INFO 2018-03-20 18:00:00
+15:19:44,682 root INFO 7332592838794
+15:19:44,683 root INFO The operator handled everything. I just had to wait while he worked it out with the vendor. The vendor made it more difficult than it needed to be.
+15:19:44,683 root INFO 
+15:19:44,683 root INFO 
+15:19:44,683 root INFO 2018-03-20 22:43:59.999998
+15:19:44,683 root INFO 7332592838794
+15:19:44,683 root INFO Issue not resolved after 2 phone calls and placed on hold over an hour both times
+15:19:44,683 root INFO 
+15:19:44,683 root INFO 
+15:19:44,683 root INFO 2018-03-20 23:42:59.999996
+15:19:44,683 root INFO 7332592838794
+15:19:44,683 root INFO Took one solid hour on the phone to get you to correct your own overbooking mistake.    Your clerks use heavily accented English and are difficult to understand.  Transferring me to a re-booking clerk (to correct your mistake) took 45 minutes of hold time.   You obviously don’t care about customers.
+15:19:44,683 root INFO 
+15:19:44,683 root INFO 
+15:19:44,683 root INFO 2018-03-21 00:33:59.999999
+15:19:44,684 root INFO 7332592838794
+15:19:44,684 root INFO I had my record number and the record was found and explained quickly.
+15:19:44,684 root INFO 
+15:19:44,684 root INFO 
+15:19:44,684 root INFO 2018-03-21 11:10:00.000002
+15:19:44,684 root INFO 7332592838794
+15:19:44,684 root INFO User friendly and also talked with representative about changing car and she was very helpful and courteous.
+15:19:44,684 root INFO 
+15:19:44,684 root INFO 
+15:19:44,684 root INFO 2018-03-21 21:04:00.000002
+15:19:44,684 root INFO 7332592838794
+15:19:44,684 root INFO It was a nightmare and it was a lot more expensive then a lot of the other flies. I went right to the airport and the lady showed me prices as low as $400 I was horrified
+15:19:44,684 root INFO 
+15:19:44,685 root INFO 
+15:19:44,685 root INFO 2018-03-22 10:05:59.999997
+15:19:44,685 root INFO 7332592838794
+15:19:44,685 root INFO Customer service was very knowledgeable and patience with me
+15:19:44,685 root INFO 
+15:19:44,685 root INFO 
+15:19:44,685 root INFO 2018-03-19 22:36:59.999999
+15:19:44,685 root INFO 7332592838794
+15:19:44,685 root INFO I stated my reason for calling , the agent requested the information he needed and begin to process my request.
+15:19:44,685 root INFO 
+15:19:44,685 root INFO 
+15:19:44,686 root INFO 2018-03-22 12:47:00.000001
+15:19:44,686 root INFO 7332592838794
+15:19:44,686 root INFO I called regarding an offer from AirHelp to possibly recover funds. I called to ask if the email was legitimate, as it was sent from an email address related to Expedia. The agent said it was not. I indicated they had all the information and it appeared legitimate. After insisting there must be more information, I was put on hold for 20 minutes! I hung up. The clerk was quick to check with me right after being put on hold, but not again within 20 minutes. Not quite a good way to handle it.
+15:19:44,686 root INFO 
+15:19:44,686 root INFO 
+15:19:44,686 root INFO 2018-03-22 13:52:59.999998
+15:19:44,686 root INFO 7332592838794
+15:19:44,686 root INFO I was going to Travel Atlanta,Georgia I had to cancel husband Sickness diagnose.
+15:19:44,686 root INFO 
+15:19:44,686 root INFO 
+15:19:44,686 root INFO 2018-03-22 14:19:00.000002
+15:19:44,686 root INFO 7332592838794
+15:19:44,686 root INFO Well-informed, knowledgeable, eager to assist me with my problem
+15:19:44,687 root INFO 
+15:19:44,687 root INFO 
+15:19:44,687 root INFO 2018-03-22 16:36:59.999999
+15:19:44,687 root INFO 7332592838794
+15:19:44,687 root INFO Customer service rep handled everything quickly. Very helpful.
+15:19:44,687 root INFO 
+15:19:44,687 root INFO 
+15:19:44,687 root INFO 2018-03-22 18:49:59.999998
+15:19:44,687 root INFO 7332592838794
+15:19:44,687 root INFO Worst experience. After three days of wasting hours of my time.still never got an answer from anyone. Finally cancel my reservation, just hope they don’t charge me on the credit card. And say it’s my fault.
+15:19:44,687 root INFO 
+15:19:44,687 root INFO 
+15:19:44,687 root INFO 2018-03-22 19:34:00.000002
+15:19:44,687 root INFO 7332592838794
+15:19:44,688 root INFO Solved it
+15:19:44,688 root INFO 
+15:19:44,688 root INFO 
+15:19:44,688 root INFO 2018-03-22 19:30:00
+15:19:44,688 root INFO 7332592838794
+15:19:44,688 root INFO The representative was not self explanatory. I had to ask several questions. I was on the phone with the representative for over an hour. Not very clear on information
+15:19:44,688 root INFO 
+15:19:44,688 root INFO 
+15:19:44,688 root INFO 2018-03-22 20:33:59.999996
+15:19:44,688 root INFO 7332592838794
+15:19:44,688 root INFO Made reservations for airline tickets on 3/21/18.  The confirmation number supplied by email was not valid.  Has to spend several hours on the phone to correct this issue.
+15:19:44,688 root INFO 
+15:19:44,688 root INFO 
+15:19:44,688 root INFO 2018-03-23 15:51:59.999999
+15:19:44,688 root INFO 7332592838794
+15:19:44,689 root INFO I was in process of getting another car due to my flight to DC was canceled.
+15:19:44,689 root INFO 
+15:19:44,689 root INFO 
+15:19:44,689 root INFO 2018-03-23 16:07:00.000002
+15:19:44,689 root INFO 7332592838794
+15:19:44,689 root INFO Wait time promised was longer, so callback came at an inconvenient time.  Customer service leaves much to be desired
+15:19:44,689 root INFO 
+15:19:44,689 root INFO 
+15:19:44,689 root INFO 2018-03-23 15:38:00.000001
+15:19:44,689 root INFO 7332592838794
+15:19:44,689 root INFO quick good guidance
+15:19:44,689 root INFO 
+15:19:44,689 root INFO 
+15:19:44,689 root INFO 2018-03-23 16:27:00.000003
+15:19:44,689 root INFO 7332592838794
+15:19:44,690 root INFO The AARP phone number associated with the hotel was easy to contact and the operator was able to  do what I was asking her to do. However, the direct phone number to the hotel is not provided and I had to go through the AARP operator in order to get that number. I was unsure about whether I would need to change the hotel so I needed the direct phone number.
+15:19:44,690 root INFO 
+15:19:44,690 root INFO 
+15:19:44,690 root INFO 2018-03-23 16:29:00.000004
+15:19:44,690 root INFO 7332592838794
+15:19:44,690 root INFO The person on the phone was were helpful
+15:19:44,690 root INFO 
+15:19:44,690 root INFO 
+15:19:44,690 root INFO 2018-03-23 19:18:59.999999
+15:19:44,690 root INFO 7332592838794
+15:19:44,690 root INFO I called around 830 pm CST and told that the lines are very busy but that i could leave my number and that i would not lose my spot in line and that i would be called back in approximately 1.5 hrs. I tried again around 930 pm, i got through and was able to make my changes. I am woken up at 230 am CST telling me that this was the return call i had requested. 5 hours is NOT 1.5 hours!! Why does your recording say that i wouldn’t lose my place in line, yet i got through on a second attempt within the hour, but your system decides to wake me up 5 hours later. 
+
+UNACCEPTABLE CUSTOMER SERVICE!!
+15:19:44,690 root INFO 
+15:19:44,691 root INFO 
+15:19:44,691 root INFO 2018-03-23 20:23:00.000004
+15:19:44,691 root INFO 7332592838794
+15:19:44,691 root INFO Very professional and courteous.  Thank you!
+15:19:44,691 root INFO 
+15:19:44,691 root INFO 
+15:19:44,691 root INFO 2018-03-23 19:43:00.000002
+15:19:44,691 root INFO 7332592838794
+15:19:44,691 root INFO It was simple to understand information.
+We have received information quickly on changes.
+15:19:44,691 root INFO 
+15:19:44,691 root INFO 
+15:19:44,691 root INFO 2018-03-23 19:52:59.999998
+15:19:44,691 root INFO 7332592838794
+15:19:44,691 root INFO WE HAD A WEATHER RELATED INCIDENT AND HAD TO MOVE OUR PLANS FORWARD A DAY. YOUR STAFF WAS EXTREMELY HELPFUL AND EFFICIENT.
+THEY MOVED OUR RESERVATION FORWARD AND MET OUR SPECIAL NEEDS REQUEST, THANKS AGAIN.
+15:19:44,692 root INFO 
+15:19:44,692 root INFO 
+15:19:44,692 root INFO 2018-03-23 19:18:00.000003
+15:19:44,692 root INFO 7332592838794
+15:19:44,692 root INFO I explained my need to change the reservation (snowstorm & funeral) , they understood, & it was accomplished without penalty. It did take over 1/2 hr on the phone to accomplish.  Have to say I got a rate $25 less than the supposed discount rate that AARP advertised. That gives me reason to make direct reservations in the future. Also learned hotels give a bereavement rate. Definitely gives some food for thought.
+15:19:44,692 root INFO 
+15:19:44,692 root INFO 
+15:19:44,692 root INFO 2018-03-23 19:52:00.000002
+15:19:44,692 root INFO 7332592838794
+15:19:44,692 root INFO The customer service rep was understanding due to flights being cancelled & weather conditions which affected my travel and the need to cancel my reservation with Belvedere Hotel in NY.
+15:19:44,692 root INFO 
+15:19:44,692 root INFO 
+15:19:44,692 root INFO 2018-03-23 19:52:00.000002
+15:19:44,693 root INFO 7332592838794
+15:19:44,693 root INFO Would never tell someone to use you
+15:19:44,693 root INFO 
+15:19:44,693 root INFO 
+15:19:44,693 root INFO 2018-03-23 20:26:00.000001
+15:19:44,693 root INFO 7332592838794
+15:19:44,693 root INFO This was a second follow up to an unresolved issue from an earlier contact. First rep was terrible and incompetent. The second one was much better and worked very hard and finally did resolve my problem satisfactorially!
+15:19:44,693 root INFO 
+15:19:44,693 root INFO 
+15:19:44,693 root INFO 2018-03-23 22:21:00
+15:19:44,693 root INFO 7332592838794
+15:19:44,693 root INFO My wife and I spent literally hours before and after our flight was cancelled by American Airlines trying to reschedule our trip.
+15:19:44,693 root INFO 
+15:19:44,693 root INFO 
+15:19:44,693 root INFO 2018-03-24 00:13:59.999998
+15:19:44,693 root INFO 7332592838794
+15:19:44,694 root INFO Because when my flight was cancelled i had no problems rescheduling
+15:19:44,694 root INFO 
+15:19:44,694 root INFO 
+15:19:44,694 root INFO 2018-03-24 10:21:59.999996
+15:19:44,694 root INFO 7332592838794
+15:19:44,694 root INFO My travel rep was very friendly, I could understand him, and he was very patient with my requests.
+15:19:44,694 root INFO 
+15:19:44,694 root INFO 
+15:19:44,694 root INFO 2018-03-24 12:02:00.000001
+15:19:44,694 root INFO 7332592838794
+15:19:44,694 root INFO Person was very articulate, nice, and helpful.  She answered all my questions and went over and confirmed all my travel arrangements with me.
+15:19:44,694 root INFO 
+15:19:44,694 root INFO 
+15:19:44,694 root INFO 2018-03-24 14:19:00.000002
+15:19:44,695 root INFO 7332592838794
+15:19:44,695 root INFO The assistant wasn’t able to answer questions or get my reservation board in an appropriate amount of time.
+15:19:44,695 root INFO 
+15:19:44,695 root INFO 
+15:19:44,695 root INFO 2018-03-24 14:41:00.000004
+15:19:44,695 root INFO 7332592838794
+15:19:44,695 root INFO Excellent call center agent based in Cairo.
+15:19:44,695 root INFO 
+15:19:44,695 root INFO 
+15:19:44,695 root INFO 2018-03-24 15:33:59.999999
+15:19:44,695 root INFO 7332592838794
+15:19:44,695 root INFO I explained my need, and the person took care of the situation promptly.
+15:19:44,695 root INFO 
+15:19:44,695 root INFO 
+15:19:44,695 root INFO 2018-03-24 21:09:00
+15:19:44,696 root INFO 7332592838794
+15:19:44,696 root INFO very friendly and informative
+15:19:44,696 root INFO 
+15:19:44,696 root INFO 
+15:19:44,696 root INFO 2018-03-24 22:05:59.999997
+15:19:44,696 root INFO 7332592838794
+15:19:44,696 root INFO I called AARP Travel Center when I was having a problem with a rent a car company that I booked through your website.  I was put on hold for a short time, then problem was resolved.  I can't tell you how relieved I was not to have to hassle with anyone.   I tell everyone about your services and plan to continue to make all my booking through you.  
+Thank you!
+15:19:44,696 root INFO 
+15:19:44,696 root INFO 
+15:19:44,696 root INFO 2018-03-25 05:21:59.999999
+15:19:44,696 root INFO 7332592838794
+15:19:44,696 root INFO They screwed up the reservation with their own member. His name on his account did not match his airline information. We end up paying $400.00 for this screwed up situation.
+15:19:44,696 root INFO 
+15:19:44,696 root INFO 
+15:19:44,697 root INFO 2018-03-23 13:34:59.999998
+15:19:44,697 root INFO 7332592838794
+15:19:44,697 root INFO Because I'm a povety level government retired mental gealth worker I was discriminated against dur to the fact I chose not to have any credut cards. When I mentioned this apparent discrimation because i wantwd to use my SSI debit card(which befor3 Trump was also abke tobe used as a credit card) 9 was given phoney information twice. First by Expedia  Travel. 2nd time by AARP Travel Reptesentive... The Hertz rental car agency never answered when I called the phone number I was given because its no longer in business anymore! Which i explained to both parties, what a "discrimatory outrage!!!
+15:19:44,697 root INFO 
+15:19:44,697 root INFO 
+15:19:44,697 root INFO 2018-03-25 21:49:00.000002
+15:19:44,697 root INFO 7332592838794
+15:19:44,697 root INFO Courtesy and promt service
+15:19:44,697 root INFO 
+15:19:44,697 root INFO 
+15:19:44,697 root INFO 2018-03-26 10:18:00.000003
+15:19:44,697 root INFO 7332592838794
+15:19:44,697 root INFO The staff were very pleasant and eager to help me out.
+15:19:44,698 root INFO 
+15:19:44,698 root INFO 
+15:19:44,698 root INFO 2018-03-26 11:26:59.999997
+15:19:44,698 root INFO 7332592838794
+15:19:44,698 root INFO seemed to know what I wanted and was quick and easy to navigate around the web site
+15:19:44,698 root INFO 
+15:19:44,698 root INFO 
+15:19:44,698 root INFO 2018-03-26 11:39:59.999999
+15:19:44,698 root INFO 7332592838794
+15:19:44,698 root INFO The wait time to be someone on the phone was long. No response the first night and 30 minutes for a call the next morning. We could not make the change online. The person who answered the phone was very nice and helpful.
+15:19:44,698 root INFO 
+15:19:44,698 root INFO 
+15:19:44,698 root INFO 2018-03-26 16:54:59.999999
+15:19:44,698 root INFO 7332592838794
+15:19:44,699 root INFO I called with an issue because the hotel had emailed to tell me that they were cancelling our confirmed, non-refundable reservation so I couldn't resolve that on-line myself. The agent dealt with the issue but I later received an email telling me the new reservation was cancelled. I had to call in again and get to the bottom of that and, as it turned out, that information was incorrect. So, it wasn't a matter of being difficult or easy; just some wasted time and effort.
+15:19:44,699 root INFO 
+15:19:44,699 root INFO 
+15:19:44,699 root INFO 2018-03-26 17:21:59.999999
+15:19:44,699 root INFO 7332592838794
+15:19:44,699 root INFO I had to stay on the phone for a very long time, while Expedia corrected their mistake
+15:19:44,699 root INFO 
+15:19:44,699 root INFO 
+15:19:44,699 root INFO 2018-03-26 17:01:00.000002
+15:19:44,699 root INFO 7332592838794
+15:19:44,699 root INFO I wanted to change the time I pick up a car in Iowa. Expedia called the rental car place and they wanted me to cancel that reservation and rebooked at a higher rate. I said no way.
+15:19:44,700 root INFO 
+15:19:44,700 root INFO 
+15:19:44,700 root INFO 2018-03-26 17:28:00.000002
+15:19:44,700 root INFO 7332592838794
+15:19:44,700 root INFO Booked trips not compatible with Expedia.  Seldom difference in price with Expedia
+15:19:44,700 root INFO 
+15:19:44,700 root INFO 
+15:19:44,700 root INFO 2018-03-26 18:04:00.000002
+15:19:44,700 root INFO 7332592838794
+15:19:44,700 root INFO It was easy to connect and talk with live person, although they were unable to resolve my issue.
+15:19:44,700 root INFO 
+15:19:44,700 root INFO 
+15:19:44,700 root INFO 2018-03-26 17:57:59.999999
+15:19:44,700 root INFO 7332592838794
+15:19:44,701 root INFO Once we got through to the person. They were very quick to response to my problem and it was fixed in less then 24 hours
+15:19:44,701 root INFO 
+15:19:44,701 root INFO 
+15:19:44,701 root INFO 2018-03-26 18:36:59.999996
+15:19:44,701 root INFO 7332592838794
+15:19:44,701 root INFO mmmmm
+15:19:44,701 root INFO 
+15:19:44,701 root INFO 
+15:19:44,701 root INFO 2018-03-26 17:30:59.999999
+15:19:44,701 root INFO 7332592838794
+15:19:44,701 root INFO Easy Navigation, most of the info is there no hassle...
+15:19:44,701 root INFO 
+15:19:44,701 root INFO 
+15:19:44,701 root INFO 2018-03-26 17:28:59.999998
+15:19:44,701 root INFO 7332592838794
+15:19:44,702 root INFO It was easy, cause i didnt do anything. But, i still have to either, wait, or put forth more efforts, to get desired results. What id like to know is, why wasnt i given the  opportunity to check 2  bags, when i purchased tkts originally ?
+15:19:44,702 root INFO 
+15:19:44,702 root INFO 
+15:19:44,702 root INFO 2018-03-26 17:53:00.000001
+15:19:44,702 root INFO 7332592838794
+15:19:44,702 root INFO The C.S. processed my request right away while I was talking to her
+15:19:44,702 root INFO 
+15:19:44,702 root INFO 
+15:19:44,702 root INFO 2018-03-26 19:16:00.000002
+15:19:44,702 root INFO 7332592838794
+15:19:44,702 root INFO It was time consuming!!! Unable to understand the customer service person plus she could not understand me. Place on hold several times.
+15:19:44,702 root INFO 
+15:19:44,702 root INFO 
+15:19:44,702 root INFO 2018-03-26 18:53:00.000004
+15:19:44,703 root INFO 7332592838794
+15:19:44,703 root INFO N reason
+15:19:44,703 root INFO 
+15:19:44,703 root INFO 
+15:19:44,703 root INFO 2018-03-26 19:05:00.000001
+15:19:44,703 root INFO 7332592838794
+15:19:44,703 root INFO very long hold
+15:19:44,703 root INFO 
+15:19:44,703 root INFO 
+15:19:44,703 root INFO 2018-03-26 20:26:59.999997
+15:19:44,703 root INFO 7332592838794
+15:19:44,703 root INFO password issues to log into travel center
+after booking trip, could not see it in saved trips
+15:19:44,703 root INFO 
+15:19:44,703 root INFO 
+15:19:44,704 root INFO 2018-03-26 20:33:59.999996
+15:19:44,704 root INFO 7332592838794
+15:19:44,704 root INFO Cause the people that you have in the call center must now vey well the travel system,  because his mistakes I couldn't booked my trip, I loss the best rate etc.
+15:19:44,704 root INFO 
+15:19:44,704 root INFO 
+15:19:44,704 root INFO 2018-03-26 21:47:59.999997
+15:19:44,704 root INFO 7332592838794
+15:19:44,704 root INFO When I phoned about an issue with the flight concerning the airline's baggage policy - which was not obvious before I booked the flight - the representative did look to see if there was another airline I could take that did not have that policy.  Since she could not find anything similar in price without that limitation, she cancelled the flight with no question or problem when I asked.  ( I went with Southwest airline instead who still doesn't charge for luggage or carry on bags.)
+15:19:44,704 root INFO 
+15:19:44,704 root INFO 
+15:19:44,704 root INFO 2018-03-26 23:35:59.999997
+15:19:44,704 root INFO 7332592838794
+15:19:44,704 root INFO Issue hasn't been handled
+15:19:44,704 root INFO 
+15:19:44,704 root INFO 
+15:19:44,705 root INFO 2018-03-26 23:35:59.999997
+15:19:44,705 root INFO 7332592838794
+15:19:44,705 root INFO I explained my issue and was asked to send a screenshot of the page that I was talking about. But as yet I have not received an answer.
+15:19:44,705 root INFO 
+15:19:44,705 root INFO 
+15:19:44,705 root INFO 2018-03-26 23:15:00
+15:19:44,705 root INFO 7332592838794
+15:19:44,705 root INFO CSR very kind and helpful.
+15:19:44,705 root INFO 
+15:19:44,705 root INFO 
+15:19:44,705 root INFO 2018-03-26 23:14:00.000004
+15:19:44,705 root INFO 7332592838794
+15:19:44,705 root INFO Web site seemed to look simple and easy to understand even for a little English speaking people.
+When called the office they treated customer very well.
+15:19:44,705 root INFO 
+15:19:44,705 root INFO 
+15:19:44,706 root INFO 2018-03-27 09:54:00
+15:19:44,706 root INFO 7332592838794
+15:19:44,706 root INFO Agent took the facts and streamlined our issues on an incorrect hotel booking very efficiently!
+15:19:44,706 root INFO 
+15:19:44,706 root INFO 
+15:19:44,706 root INFO 2018-03-27 10:34:00.000002
+15:19:44,706 root INFO 7332592838794
+15:19:44,706 root INFO I had 2 emails on that date at 4:56pm and 10:47pm. I think the later one was just a confirmation about flight change.
+15:19:44,706 root INFO 
+15:19:44,706 root INFO 
+15:19:44,706 root INFO 2018-03-27 12:17:00.000004
+15:19:44,706 root INFO 7332592838794
+15:19:44,706 root INFO It took over 2 months to get money back for your mistack and it was not even your compony we had to go throu or creit
+15:19:44,706 root INFO 
+15:19:44,706 root INFO 
+15:19:44,706 root INFO 2018-03-27 15:20:00.000001
+15:19:44,706 root INFO 7332592838794
+15:19:44,706 root INFO Unlike my unsatisfactory experience on 3/23/18, Divine, I believe her name was, exhibited professionalism, excellent customer service skills.
+15:19:44,706 root INFO 
+15:19:44,706 root INFO 
+15:19:44,706 root INFO 2018-03-27 14:30:00.000003
+15:19:44,707 root INFO 7332592838794
+15:19:44,707 root INFO you booked me for 4 day flight and only a 3 day hotel stay I had to pay extra money to stay at the hotel until my flight left the person who booked me needs to be aware f what they are doing . Checkout time was at 12 my flight didn't leave until 1030pm what was I suppose to do sleep at airport
+15:19:44,707 root INFO 
+15:19:44,707 root INFO 
+15:19:44,707 root INFO 2018-03-27 15:06:00.000003
+15:19:44,707 root INFO 7332592838794
+15:19:44,707 root INFO The agent was able to resolve my issue in a very timely manner.
+15:19:44,707 root INFO 
+15:19:44,707 root INFO 
+15:19:44,707 root INFO 2018-03-27 16:00:00.000003
+15:19:44,707 root INFO 7332592838794
+15:19:44,707 root INFO I got the help I needed without hassles and efficiently
+15:19:44,707 root INFO 
+15:19:44,707 root INFO 
+15:19:44,708 root INFO 2018-03-27 15:31:59.999998
+15:19:44,708 root INFO 7332592838794
+15:19:44,708 root INFO I could have handled it on line myself and then called the hotel but I thought it would be faster to use Expedia, I was mistaken.  I could have handled it myself much faster
+15:19:44,708 root INFO 
+15:19:44,708 root INFO 
+15:19:44,708 root INFO 2018-03-27 16:52:59.999998
+15:19:44,708 root INFO 7332592838794
+15:19:44,708 root INFO Easy to follow instructions for booking
+15:19:44,708 root INFO 
+15:19:44,708 root INFO 
+15:19:44,708 root INFO 2018-03-27 18:33:59.999999
+15:19:44,708 root INFO 7332592838794
+15:19:44,708 root INFO Good service rep's. Made my stress in mixed ups lighter.
+15:19:44,708 root INFO 
+15:19:44,709 root INFO 
+15:19:44,709 root INFO 2018-03-27 19:21:00
+15:19:44,709 root INFO 7332592838794
+15:19:44,709 root INFO The agent was very helpful and understanding of the cancellation/rescheudling of our flight. It took awhile but she got what we needed to fly back from our vacation
+15:19:44,709 root INFO 
+15:19:44,709 root INFO 
+15:19:44,709 root INFO 2018-03-27 19:32:59.999997
+15:19:44,709 root INFO 7332592838794
+15:19:44,709 root INFO Everything was very self explanatory!!! And when I made a mistake, it was handled quickly and professionally!!!
+15:19:44,709 root INFO 
+15:19:44,709 root INFO 
+15:19:44,709 root INFO 2018-03-27 19:57:59.999996
+15:19:44,709 root INFO 7332592838794
+15:19:44,709 root INFO The rep handled my problem fast
+15:19:44,709 root INFO 
+15:19:44,710 root INFO 
+15:19:44,710 root INFO 2018-03-27 21:33:59.999999
+15:19:44,710 root INFO 7332592838794
+15:19:44,710 root INFO Not able to cancel online. I wasleft with no option but to do business on phone. Not a problem but a minor disappointment.
+15:19:44,710 root INFO 
+15:19:44,710 root INFO 
+15:19:44,710 root INFO 2018-03-27 22:59:00.000001
+15:19:44,710 root INFO 7332592838794
+15:19:44,710 root INFO The representative was very attentive.  She heard my request and confidently said, I can handle that for you.   And she did just that.
+15:19:44,710 root INFO 
+15:19:44,710 root INFO 
+15:19:44,710 root INFO 2018-03-28 09:36:59.999996
+15:19:44,710 root INFO 7332592838794
+15:19:44,710 root INFO Agent was argumentative as to how many days were to be refunded. I finally asked for a supervisor and was put on hold for quite some time. Eventually, the matter was satisfactorily settled. However, initially, there was a lot of unnecessary disagreement as the agent continued to insist that I was wrong and refused to see my explanation.
+15:19:44,710 root INFO 
+15:19:44,710 root INFO 
+15:19:44,711 root INFO 2018-03-28 09:27:59.999996
+15:19:44,711 root INFO 7332592838794
+15:19:44,711 root INFO Because the repesentive was able to resolve the issue very easily
+15:19:44,711 root INFO 
+15:19:44,711 root INFO 
+15:19:44,711 root INFO 2018-03-28 12:33:00.000003
+15:19:44,711 root INFO 7332592838794
+15:19:44,711 root INFO All questions answered and explained completely
+15:19:44,711 root INFO 
+15:19:44,711 root INFO 
+15:19:44,711 root INFO 2018-03-28 14:17:00.000001
+15:19:44,711 root INFO 7332592838794
+15:19:44,711 root INFO Travel Center while acknowledging the possibility of the error of the hotel booking date, preferred to provide a new registration with the correct date at a much higher price while promising to credit the difference after the stay and submission of that payment. 
+
+Copy of the payment has been submitted and to date no further communication has been received regarding the credit for the difference.
+15:19:44,711 root INFO 
+15:19:44,711 root INFO 
+15:19:44,712 root INFO 2018-03-28 17:06:59.999996
+15:19:44,712 root INFO 7332592838794
+15:19:44,712 root INFO Supervisor was trying to get me to pay More for the Rep mistake. I was so dissatisfied with the service. It wasn't even my fault.All I was trying to do was plan a trip for my Birthday.
+15:19:44,712 root INFO 
+15:19:44,712 root INFO 
+15:19:44,712 root INFO 2018-03-28 17:10:00.000002
+15:19:44,712 root INFO 7332592838794
+15:19:44,712 root INFO Had an unexpected cancellation due to weather while on the road.they were very helpful.
+15:19:44,712 root INFO 
+15:19:44,712 root INFO 
+15:19:44,712 root INFO 2018-03-28 17:28:59.999998
+15:19:44,712 root INFO 7332592838794
+15:19:44,712 root INFO nice people
+15:19:44,712 root INFO 
+15:19:44,712 root INFO 
+15:19:44,713 root INFO 2018-03-28 17:42:59.999996
+15:19:44,713 root INFO 7332592838794
+15:19:44,713 root INFO Your rental car online site for Budget rental car is false and misleading. The site gives you the option to exclude insurance, however, in Mexico according to Budget they have mandatory insurance coverage requirements which are not listed on your site. Your site allows a customer to reserve a rental car with Budget without insurance coverage, however, when you arrive at the Budget Mexico office they require insurance coverage I declined on the Expedia website. Additionally, I was informed that if you purchase Expedia’s daily insurance for the car at $11 per day, that coverage is ineffective for Mexico and you still have to obtain insurance through Budget. So you end up purchasing worthless “insurance” from Expedia. FRAUD???
+15:19:44,713 root INFO 
+15:19:44,713 root INFO 
+15:19:44,713 root INFO 2018-03-28 18:18:59.999996
+15:19:44,713 root INFO 7332592838794
+15:19:44,713 root INFO The rep took the time to handle mt issue quickly, got the problem solved
+15:19:44,713 root INFO 
+15:19:44,713 root INFO 
+15:19:44,713 root INFO 2018-03-28 17:50:00.000004
+15:19:44,713 root INFO 7332592838794
+15:19:44,713 root INFO Patricia worked with me so patiently to get my travel accomadations in order. She was friendly and so professional.
+15:19:44,713 root INFO 
+15:19:44,713 root INFO 
+15:19:44,714 root INFO 2018-03-28 18:11:59.999997
+15:19:44,714 root INFO 7332592838794
+15:19:44,714 root INFO One phone call and was able to change my reservation with no problem
+15:19:44,714 root INFO 
+15:19:44,714 root INFO 
+15:19:44,714 root INFO 2018-03-28 17:17:59.999997
+15:19:44,714 root INFO 7332592838794
+15:19:44,714 root INFO Because I had one quote for my baggage and once I contacted the airline that price that I was quoted for my baggage changing went up from $25 to $35 to $150
+15:19:44,714 root INFO 
+15:19:44,714 root INFO 
+15:19:44,714 root INFO 2018-03-28 17:53:59.999997
+15:19:44,714 root INFO 7332592838794
+15:19:44,714 root INFO Customer service person was very knowledgeable and organized.
+15:19:44,714 root INFO 
+15:19:44,714 root INFO 
+15:19:44,715 root INFO 2018-03-28 18:45:59.999996
+15:19:44,715 root INFO 7332592838794
+15:19:44,715 root INFO My son and I received tickets to the Masters back in June 2017. I made a reservation through the website for both of us at a hotel (with very good reviews) close to the event at that time and received a confirmation stating no need to contact hotel as reservation is confirmed.  The other day I went on the website to review our reservation and find no reservation even though I had a confirmation #, so I called.  No reservation was ever made by you.  While the AARP travel rep made another reservation for us, we are now staying at an extremely disgusting poor rated hotel arranged by the AARP travel rep because everything else in the area is NOW sold out. I am well over 70 yrs. & was looking forward to this once in a lifetime father-son trip which we have been looking forward to for months and is now a huge disappointment due to your misleading service. Your inability to follow through on behalf of your customers is non-existent and your credibility is totally unacceptable for being in a service-only provided industry. For these reasons, I can not trust you.  Never again.
+15:19:44,715 root INFO 
+15:19:44,715 root INFO 
+15:19:44,715 root INFO 2018-03-28 18:58:59.999998
+15:19:44,715 root INFO 7332592838794
+15:19:44,715 root INFO One call did the trick
+15:19:44,716 root INFO 
+15:19:44,716 root INFO 
+15:19:44,716 root INFO 2018-03-28 19:21:59.999996
+15:19:44,716 root INFO 7332592838794
+15:19:44,716 root INFO the website is easy to navigate.
+15:19:44,716 root INFO 
+15:19:44,716 root INFO 
+15:19:44,716 root INFO 2018-03-28 18:44:00.000004
+15:19:44,716 root INFO 7332592838794
+15:19:44,716 root INFO The person I spoke to was easy to understand and taking care my new ticket as the time had changed for departing Seattle to Las Vegas.
+15:19:44,716 root INFO 
+15:19:44,716 root INFO 
+15:19:44,716 root INFO 2018-03-28 18:36:00
+15:19:44,717 root INFO 7332592838794
+15:19:44,717 root INFO I called the number on the reservation to get an explanation of a charge.  The question was answered immediately.
+15:19:44,717 root INFO 
+15:19:44,717 root INFO 
+15:19:44,717 root INFO 2018-03-28 20:19:59.999998
+15:19:44,717 root INFO 7332592838794
+15:19:44,717 root INFO I had to call multiple times to get through to a human. I am disabled and have a service dog and wanted to make sure that “Kia soul” or other offered for the rental would work for us. They couldn’t make any kind of guarantee regarding whether is would be a 4 door or small SUV which would work or a 2 door that would NOT work at all. Very disappointed.
+15:19:44,717 root INFO 
+15:19:44,717 root INFO 
+15:19:44,717 root INFO 2018-03-28 21:13:00.000002
+15:19:44,717 root INFO 7332592838794
+15:19:44,717 root INFO No wait time to speak to a representative.  Very helpful!!
+15:19:44,717 root INFO 
+15:19:44,718 root INFO 
+15:19:44,718 root INFO 2018-03-28 20:53:59.999997
+15:19:44,718 root INFO 7332592838794
+15:19:44,718 root INFO I was able to explain why I called for help.
+15:19:44,718 root INFO 
+15:19:44,718 root INFO 
+15:19:44,718 root INFO 2018-03-28 21:44:00.000004
+15:19:44,718 root INFO 7332592838794
+15:19:44,718 root INFO Did it on the computer. Made a choice and done.
+15:19:44,718 root INFO 
+15:19:44,719 root INFO 
+15:19:44,719 root INFO 2018-03-29 00:02:59.999997
+15:19:44,719 root INFO 7332592838794
+15:19:44,719 root INFO the last representative i talk to had an accent and i couldn't quite get what he was trying to tell me but eventually you just have to really understand his answer
+15:19:44,719 root INFO 
+15:19:44,719 root INFO 
+15:19:44,719 root INFO 2018-03-27 22:41:59.999997
+15:19:44,719 root INFO 7332592838794
+15:19:44,719 root INFO Charges were put on my checking account triple very very confusing had to call was able to speak with Behad(S-157680111)a rep with Expedia-aarp took awhile to get it somewhat corrected but 4 days before it was corrected on my checking account Behad was very good and did( via my email )send a confirmation stating the correct charges with the amounts in a understandable order on letter head from Support@expedia-aarp.com Thank God Behad was able to help me. Please reply if you have any thoughts on why this did not go well when we ordered our trip AARP Travel earlier on3/23/18.This is why I feel unsure of using your Travel agency I would not want to ever go thru this again .BUT Thanks again to Behad S-157680111   Marie Riley 248-7327346
+15:19:44,719 root INFO 
+15:19:44,719 root INFO 
+15:19:44,719 root INFO 2018-03-29 02:05:00.000004
+15:19:44,719 root INFO 7332592838794
+15:19:44,719 root INFO Call promptly answered. Rep listened and completely understood my issue. Rep provided detailed explanation and resolution.
+15:19:44,720 root INFO 
+15:19:44,720 root INFO 
+15:19:44,720 root INFO 2018-03-29 09:24:00.000003
+15:19:44,720 root INFO 7332592838794
+15:19:44,720 root INFO AGENTS VERY HELPFULL
+15:19:44,720 root INFO 
+15:19:44,720 root INFO 
+15:19:44,720 root INFO 2018-03-29 08:50:00.000004
+15:19:44,720 root INFO 7332592838794
+15:19:44,720 root INFO The online communication, as well as the telephonic, was straightforward and addressing of issue.
+15:19:44,720 root INFO 
+15:19:44,720 root INFO 
+15:19:44,720 root INFO 2018-03-29 09:33:59.999999
+15:19:44,720 root INFO 7332592838794
+15:19:44,721 root INFO The hold time was a little longer than expected.  The customer service rep was helpful, but wasn't able to help with airline reservation.
+15:19:44,721 root INFO 
+15:19:44,721 root INFO 
+15:19:44,721 root INFO 2018-03-29 10:25:00.000002
+15:19:44,721 root INFO 7332592838794
+15:19:44,721 root INFO Took care of my problem in a quick and efficient manner. rep was very nice.
+15:19:44,721 root INFO 
+15:19:44,721 root INFO 
+15:19:44,721 root INFO 2018-03-29 10:30:00
+15:19:44,721 root INFO 7332592838794
+15:19:44,721 root INFO very little time to correct my reservation
+15:19:44,722 root INFO 
+15:19:44,722 root INFO 
+15:19:44,722 root INFO 2018-03-29 11:59:00.000004
+15:19:44,722 root INFO 7332592838794
+15:19:44,722 root INFO She was knowledgeable and able to handle my request quickly.
+15:19:44,722 root INFO 
+15:19:44,722 root INFO 
+15:19:44,722 root INFO 2018-03-29 15:15:59.999999
+15:19:44,722 root INFO 7332592838794
+15:19:44,722 root INFO The agent explained how it could be fixed and after a bit of a wait, he was able to help me
+15:19:44,722 root INFO 
+15:19:44,722 root INFO 
+15:19:44,722 root INFO 2018-03-29 15:53:00.000004
+15:19:44,722 root INFO 7332592838794
+15:19:44,723 root INFO The wait time was brief. My question was answered in a knowledgeable manner.
+15:19:44,723 root INFO 
+15:19:44,723 root INFO 
+15:19:44,723 root INFO 2018-03-29 17:19:59.999998
+15:19:44,723 root INFO 7332592838794
+15:19:44,723 root INFO Associate handling problem took care of situation.
+15:19:44,723 root INFO 
+15:19:44,723 root INFO 
+15:19:44,723 root INFO 2018-03-29 19:29:00.000004
+15:19:44,723 root INFO 7332592838794
+15:19:44,723 root INFO I saw a price change and was told it would cost me one night to change my initial booking. When I have dealt withj the hotel directly this was never an issue- i would get the discounted rate. I have used Booking, Priceline and this was never an issue. I even contacted the hotel directly and they said have Expedia call us and we will see.
+15:19:44,723 root INFO 
+15:19:44,723 root INFO 
+15:19:44,723 root INFO 2018-03-29 21:02:00.000001
+15:19:44,723 root INFO 7332592838794
+15:19:44,724 root INFO AARP Travel rep was competent,resourceful, patient, accommodating, polite, etc.
+15:19:44,724 root INFO 
+15:19:44,724 root INFO 
+15:19:44,724 root INFO 2018-03-29 21:49:59.999998
+15:19:44,724 root INFO 7332592838794
+15:19:44,724 root INFO My phone call to AARP Travel was "one-stop shopping". 
+I knew I was getting the best value for my time & money by using AARP Travel. 
+I didn't need to bounce between  multiple websites to book my airline, hotel or rental car. The questions I had  were quickly answered  by one person (not having to scroll thru  annoying FAQ's pages). 
+Additional services I required (like wheelchair transport & handicapped room), again were easily handled by the AARP travel agent. 
+The agent was pleasant and knowledgeable.
+Other people may like to waste their time comparing websites... I'd much rather spend my time utilizing  AARP's helpful Travel Services, where I can ask questions and have them quickly and pleasantly answered.
+15:19:44,724 root INFO 
+15:19:44,724 root INFO 
+15:19:44,724 root INFO 2018-03-30 00:22:59.999998
+15:19:44,724 root INFO 7332592838794
+15:19:44,724 root INFO Not much could be done about my situation.  Only required one phone call.
+15:19:44,724 root INFO 
+15:19:44,724 root INFO 
+15:19:44,724 root INFO 2018-03-30 00:42:59.999999
+15:19:44,725 root INFO 7332592838794
+15:19:44,725 root INFO Understood my rewuest
+15:19:44,725 root INFO 
+15:19:44,725 root INFO 
+15:19:44,725 root INFO 2018-03-29 11:26:59.999997
+15:19:44,725 root INFO 7332592838794
+15:19:44,725 root INFO I reached a representative relatively quickly and they tried to help
+15:19:44,725 root INFO 
+15:19:44,725 root INFO 
+15:19:44,725 root INFO 2018-03-30 11:35:00.000001
+15:19:44,725 root INFO 7332592838794
+15:19:44,725 root INFO I booked a trip in Feb 2018 to be taken in Nov,2018. It was indicated to me that expedia had a guaranteed price match if I saw a lower price before I embarked on the trip. A few days ago I found a much lower price on Orbitz , a sister site of Expedia. I therefore called the AARP/Expedia site where I booked the original trip. After being on the line over 30 minutes with the agent, she said she would have to transfer me to a supervisor, After a few more minutes she came on the line and cut me off. I then called back and got another agent and had to go through the whole process again and again was transferred to another supervisr. After another 30 minutes she finally told me that the price guarantee was for 24 hours only. I told her that the only thing that I was told about was that I could cancel within 24 hours of booking, nothing was said about the Expedia price guarantee. Of course I was extremely and remain very upset.My itenerary #is 
+7330861731730. My name is Henry Ertter, My phone is 803-517-8293. The lower price I found on Orbitz was $824.00 per peron, a difference of over $140.00 from the original booking. Having been a former CEO, President and Vice President of several companies during my career, makes me wonder if your customer service personnel are not trained well or if your price guarantee is not really guaranteed. I would welcome a response from you and the only thing that will satisfy my displeasure would be a refund in the price difference  Thanks, H.F.Ertter
+15:19:44,725 root INFO 
+15:19:44,725 root INFO 
+15:19:44,726 root INFO 2018-03-30 14:05:00.000004
+15:19:44,726 root INFO 7332592838794
+15:19:44,726 root INFO Staff handled my problem professionally and immediately in canceling a reservation.
+15:19:44,726 root INFO 
+15:19:44,726 root INFO 
+15:19:44,726 root INFO 2018-03-30 13:54:00.000003
+15:19:44,726 root INFO 7332592838794
+15:19:44,726 root INFO My question was in reference to the breakdown of all charges and the answer was given clearly.
+15:19:44,726 root INFO 
+15:19:44,726 root INFO 
+15:19:44,726 root INFO 2018-03-30 14:48:00.000003
+15:19:44,727 root INFO 7332592838794
+15:19:44,727 root INFO CS rep listsned attentively and resolved issue
+15:19:44,727 root INFO 
+15:19:44,727 root INFO 
+15:19:44,727 root INFO 2018-03-30 15:06:59.999999
+15:19:44,727 root INFO 7332592838794
+15:19:44,727 root INFO the person that helped me did a great job of changing my trip after a fall. 
+very nice and helpful
+15:19:44,727 root INFO 
+15:19:44,727 root INFO 
+15:19:44,727 root INFO 2018-03-30 14:23:00.000004
+15:19:44,727 root INFO 7332592838794
+15:19:44,727 root INFO Helpful
+Quick
+Pleasant
+15:19:44,727 root INFO 
+15:19:44,727 root INFO 
+15:19:44,727 root INFO 2018-03-30 14:08:59.999997
+15:19:44,728 root INFO 7332592838794
+15:19:44,728 root INFO I cancelled a reservation,easily done. However I was upset as to why that was necessary.
+15:19:44,728 root INFO 
+15:19:44,728 root INFO 
+15:19:44,728 root INFO 2018-03-30 15:58:00.000002
+15:19:44,728 root INFO 7332592838794
+15:19:44,728 root INFO The csr understood what I wanted and seemed sincerely happy to help me
+15:19:44,728 root INFO 
+15:19:44,728 root INFO 
+15:19:44,728 root INFO 2018-03-30 15:20:00.000001
+15:19:44,728 root INFO 7332592838794
+15:19:44,728 root INFO once I explained the booking mistake I made, the agent was able to follow through to resolving the issues (canceling the reservation I had made).
+15:19:44,729 root INFO 
+15:19:44,729 root INFO 
+15:19:44,729 root INFO 2018-03-30 16:00:59.999999
+15:19:44,729 root INFO 7332592838794
+15:19:44,729 root INFO I booked a first class ticket for $1233. and ended up in coach. now I have to work with assholes to get my money back!!!
+15:19:44,729 root INFO 
+15:19:44,729 root INFO 
+15:19:44,729 root INFO 2018-03-30 16:18:00.000003
+15:19:44,729 root INFO 7332592838794
+15:19:44,729 root INFO I was kept on hold for quite awhile before receiving a satisfactory answer to my question.
+15:19:44,729 root INFO 
+15:19:44,729 root INFO 
+15:19:44,729 root INFO 2018-03-30 16:57:00
+15:19:44,729 root INFO 7332592838794
+15:19:44,730 root INFO mix up in flight out of slc
+15:19:44,730 root INFO 
+15:19:44,730 root INFO 
+15:19:44,730 root INFO 2018-03-30 18:09:59.999996
+15:19:44,730 root INFO 7332592838794
+15:19:44,730 root INFO Problem resolved in timely manner
+15:19:44,730 root INFO 
+15:19:44,730 root INFO 
+15:19:44,730 root INFO 2018-03-30 18:47:00.000001
+15:19:44,730 root INFO 7332592838794
+15:19:44,730 root INFO Just followed the link.
+15:19:44,730 root INFO 
+15:19:44,730 root INFO 
+15:19:44,730 root INFO 2018-03-30 18:54:00
+15:19:44,731 root INFO 7332592838794
+15:19:44,731 root INFO It took a long time. It was tense but the agent made sure I knew he was still with me. Eventually, he got the new plan worked out.
+15:19:44,731 root INFO 
+15:19:44,731 root INFO 
+15:19:44,731 root INFO 2018-03-30 18:51:00.000003
+15:19:44,731 root INFO 7332592838794
+15:19:44,731 root INFO hard to remember everything....was such a horrible experience.  I just realized that my horrible time was with United Airline and dealing with their agents in the Philip..I was so upset I decided to call AARP and they somehow connected me with someone in Egypt...she was able to connect me to someone in Chicago....thank God.....I will never book with United again.
+15:19:44,731 root INFO 
+15:19:44,731 root INFO 
+15:19:44,731 root INFO 2018-03-30 21:53:00.000004
+15:19:44,731 root INFO 7332592838794
+15:19:44,731 root INFO Date was incorrect. Agent got it changed.
+15:19:44,732 root INFO 
+15:19:44,732 root INFO 
+15:19:44,732 root INFO 2018-03-30 21:11:00.000001
+15:19:44,732 root INFO 7332592838794
+15:19:44,732 root INFO It has not been resolved. I asked for a supervisor after an hour of waiting and agent clueless on what steps to take. Supervisor assured me I'd receive an email with the resolution within 24hours and 48 hours has gone by. I am very disappointed and have been taken advantage of. I will warn anyone away from using this horrible "service". Charging me $80.55 for a car rental! or if the other issue is the main issue, then over-charging me. Your receipt did not break out charges for air, hotel and car until I saw it on my Credit Card charges online. I was overcharged on everything but the car rental is charges are HORRENDOUS! What a rip-off and shame on you!
+15:19:44,732 root INFO 
+15:19:44,732 root INFO 
+15:19:44,732 root INFO 2018-03-30 22:41:59.999997
+15:19:44,732 root INFO 7332592838794
+15:19:44,732 root INFO Because the associate was very knowledgeable, and helpful.
+15:19:44,732 root INFO 
+15:19:44,732 root INFO 
+15:19:44,732 root INFO 2018-03-31 05:55:00.000002
+15:19:44,732 root INFO 7332592838794
+15:19:44,733 root INFO I just called the 800 number to cancel a room
+15:19:44,733 root INFO 
+15:19:44,733 root INFO 
+15:19:44,733 root INFO 2018-03-31 12:06:59.999999
+15:19:44,733 root INFO 7332592838794
+15:19:44,733 root INFO The young man I worked with was exceptional.  We had made several reservations in anticipation of a long road trip.  Unfortunately, we had to change our plans and cancel many hotels; some of which did not offer refunds.  This young man successfully got our "non refund" hotels successfully refunded.  He was very patient with me as I gave him a long list of cancellations and date changes.
+I am most happy with ARRP Travel thanks to this man.  I only wish I'd thought to get his name.
+15:19:44,733 root INFO 
+15:19:44,733 root INFO 
+15:19:44,733 root INFO 2018-03-31 13:21:59.999996
+15:19:44,733 root INFO 7332592838794
+15:19:44,733 root INFO Person I spoke with was very helpful.
+15:19:44,733 root INFO 
+15:19:44,733 root INFO 
+15:19:44,734 root INFO 2018-03-31 22:41:00.000001
+15:19:44,734 root INFO 7332592838794
+15:19:44,734 root INFO I could not get any success online with AARP Expedia, so call AARP Expedia.  They took lots of detail discussing what I needed, then proceeded to make the reservation for a wrong hotel.  I confirmed the name and location with the agent, and she confirmed yes to the hotel I needed was the hotel she booked.  Then, when the email confirmation was received, it was the wrong hotel.  I had to go online and cancel the reservation and book the correct hotel.  I waited to receive the confirmation for the cancellation, but never received it.  When I called the hotel they said we were still on the reservation list and suggested we call Expedia.  The agent cancelled and confirmed I had made the reservation correctly on the Expedia web site.  It was nerve wrecking that I might have had to pay two hotels because of the first Expedia agent's neglience and mistake.
+15:19:44,734 root INFO 
+15:19:44,734 root INFO 
+15:19:44,734 root INFO Sheet three finished processing
+15:19:44,734 root DEBUG 

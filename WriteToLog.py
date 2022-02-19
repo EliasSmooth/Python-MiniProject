@@ -50,8 +50,10 @@ def getData(file, ind):
                 for line,ele in enumerate(csv_reader):
                     if line == 0:
                         for item,n in enumerate(ele):
-                            if n[0:7] == formatted:
-                                index = item  
+                                if n[0:7] == formatted:
+                                    index = item  
+                                elif n[0:3] == month:
+                                    index = item
                     if index != 0:
                         if "." in ele[index]:
                             next

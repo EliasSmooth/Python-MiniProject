@@ -18,7 +18,7 @@ if files != []:
             instance = files[file] 
             formatted = instance + "\n"
             getData(files[file], file)
-            #2edcw3append(formatted, instance)
+            #append(formatted, instance)
 
 else: 
     print("No Files")

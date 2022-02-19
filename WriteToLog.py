@@ -1,5 +1,6 @@
 #Define function to read and write to the log
 from errno import errorcode
+from stat import filemode
 from openpyxl import load_workbook
 
 import csv
@@ -8,7 +9,7 @@ import logging
 from writeCSV import writeCSV
 from monthMatch import monthMatch
 from processChecker import append, check
-from logger import setup_logger
+from logger import setup_logger, delete_log
 
 def getData(file, ind): 
     #workbook definitions and workpage definitions
@@ -24,6 +25,9 @@ def getData(file, ind):
 
     #final iteration of the month added to the year for matching purposes
     formatted = year + "-" + monthMatch(month)
+    
+    #deletes the previous log
+    delete_log(ind)
 
     #Initiates the log file and location
     setup_logger('{}_logger'.format(ind), './logs/{}_logfile.log'.format(ind))
@@ -50,7 +54,6 @@ def getData(file, ind):
             if wp.active == wp2:
                 index = 0
                 for line,ele in enumerate(csv_reader):
-                    print(ele)
                     if line == 0:
                         for item,n in enumerate(ele):
                             if n[0:7] == formatted:
@@ -60,10 +63,16 @@ def getData(file, ind):
                             continue
                         else:
                             try:
-                                if int(ele[index]) > 200 and line == [2]:
+                                proper = int(ele[index])
+                                if proper and line == 2:
                                     logger.info("Base Size " + ele[index]) 
-                                else: 
-                                    logger.info(ele[index] + " Bad Score")
+                                elif proper > 200 and line == 3: 
+                                    logger.info(ele[index] + " Good Promoters")
+                                elif proper > 100 and line == 4: 
+                                    logger.info(ele[index] + " Good Passives")
+                                elif proper > 100 and line == 5: 
+                                    logger.info(ele[index] + " Good Decorators")
+                                
                             except: 
                                 pass      
                     else:

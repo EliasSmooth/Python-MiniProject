@@ -1,11 +1,14 @@
 import os
 
+from directoryHandler import fileHandle
+
 fil = open('./Archive/files.txt', "w")
 
 filesize = os.path.getsize("./Archive/files.txt")
 
-def append(file): 
-    fil.write(file)
+def append(formatted, file): 
+    fil.write(formatted)
+    fileHandle(file)
 
 def check(file):
     if filesize == 0:

@@ -1,9 +1,7 @@
 import glob
-import logging
 
 from WriteToLog import getData
 from processChecker import append, check
-from logger import setup_logger
 
 
 #Retreives all files in the chosen directory that belong to the .xlsx filetype

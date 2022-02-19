@@ -1,6 +1,4 @@
 #Define function to read and write to the log
-from errno import errorcode
-from stat import filemode
 from openpyxl import load_workbook
 
 import csv
@@ -25,7 +23,7 @@ def getData(file, ind):
 
     #final iteration of the month added to the year for matching purposes
     formatted = year + "-" + monthMatch(month)
-    
+
     #deletes the previous log
     delete_log(ind)
 
@@ -41,15 +39,11 @@ def getData(file, ind):
             csv_reader = csv.reader(csv_file, dialect="excel")
                 
             if wp.active == wp1:
-                process = True
                 for line in csv_reader:
                     if line[0][0:7] == formatted: 
                         for x in line:
                             if x != '' or 0:
                                 logger.info(x)
-                            if process:
-                                logger.info('Sheet one finished processing')
-                                process = False
                     
             if wp.active == wp2:
                 index = 0
@@ -60,18 +54,29 @@ def getData(file, ind):
                                 index = item  
                     if index != 0:
                         if "." in ele[index]:
-                            continue
+                            next
                         else:
                             try:
+                                #transforms value to int for comparison operators
                                 proper = int(ele[index])
+                                #Prints proper data and rating for each datapoint on sheet 2
                                 if proper and line == 2:
-                                    logger.info("Base Size " + ele[index]) 
-                                elif proper > 200 and line == 3: 
-                                    logger.info(ele[index] + " Good Promoters")
-                                elif proper > 100 and line == 4: 
-                                    logger.info(ele[index] + " Good Passives")
-                                elif proper > 100 and line == 5: 
-                                    logger.info(ele[index] + " Good Decorators")
+                                    logger.info("Base Size: " + ele[index]) 
+                                
+                                if proper > 200 and line == 3: 
+                                    logger.info(ele[index] + " - Good Promoters")
+                                elif proper < 200 and line == 3:
+                                    logger.info(ele[index] + " - Bad Promoters")
+
+                                if proper > 100 and line == 5:
+                                    logger.info(ele[index] + " - Good Passives")
+                                elif proper < 100 and line == 5:
+                                    logger.info(ele[index] + " - Bad Passives")
+
+                                if proper > 100 and line == 7: 
+                                    logger.info(ele[index] + " - Good Dectrators")
+                                elif proper < 100 and line == 7:
+                                    logger.info(ele[index] + " - Bad Dectrators")
                                 
                             except: 
                                 pass      
@@ -82,18 +87,18 @@ def getData(file, ind):
     #Iterates for each workpage, reads and uploads the info to the log file.        
     if wp.active == wp1:
         writeCSV(wp1, "1", ind)
-        logger.debug('Sheet 1: Date, Call Count, "%" of abandons after 30s, "%" FCR, "%" DSAT, "%" CSAT')
+        logger.info('Sheet 1: Date, Call Count, "%" of abandons after 30s, "%" FCR, "%" DSAT, "%" CSAT')
         readCSV("1")
-        logger.debug('')
+        logger.info('Sheet one finished processing')
+        logger.info('')
 
     wp.active = wp2 
 
     if wp.active == wp2:
         writeCSV(wp2, "2", ind)
-        logger.debug('Sheet 2: Base Size, Promoters (number and percentage), Passives (number and percentage), Dectractors (number and percentage), AARP total "%" for (NPS"%", Agent"%", DSAT"%"')
+        logger.info('Sheet 2: Base Size, Promoters, Passives, Dectractors')
         readCSV("2")
         logger.info('Sheet two finished processing')
-        logger.debug('')
 
 
     

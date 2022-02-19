@@ -1,8 +1,8 @@
 import os
 
-fil = open('files.txt', "w")
+fil = open('./Archive/files.txt', "w")
 
-filesize = os.path.getsize("files.txt")
+filesize = os.path.getsize("./Archive/files.txt")
 
 def append(file): 
     fil.write(file)

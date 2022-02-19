@@ -8,6 +8,7 @@ import logging
 from writeCSV import writeCSV
 from monthMatch import monthMatch
 from processChecker import append, check
+from logger import setup_logger
 
 def getData(file, ind): 
     #workbook definitions and workpage definitions
@@ -25,11 +26,10 @@ def getData(file, ind):
     formatted = year + "-" + monthMatch(month)
 
     #Initiates the log file and location
-    logging.basicConfig(filename='./logs/{}.txt'.format(formatted),
-                            filemode='w',
-                            format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
-                            datefmt='%H:%M:%S',
-                            level=logging.DEBUG)
+    setup_logger('{}_logger'.format(ind), './logs/{}_logfile.log'.format(ind))
+
+    #Logger variable for writing
+    logger = logging.getLogger('{}_logger'.format(ind))
 
     #reusable function that takes in the number of the worksheet and reads the generated CSV from the function above.
     def readCSV(number):
@@ -42,9 +42,9 @@ def getData(file, ind):
                     if line[0][0:7] == formatted: 
                         for x in line:
                             if x != '' or 0:
-                                logging.info(x)
+                                logger.info(x)
                             if process:
-                                logging.info('Sheet one finished processing')
+                                logger.info('Sheet one finished processing')
                                 process = False
                     
             if wp.active == wp2:
@@ -61,30 +61,30 @@ def getData(file, ind):
                         else:
                             try:
                                 if int(ele[index]) > 200:
-                                    logging.info(ele[index] + " Good Score") 
+                                    logger.info(ele[index] + " Good Score") 
                                 else: 
-                                    logging.info(ele[index] + " Bad Score")
+                                    logger.info(ele[index] + " Bad Score")
                             except: 
                                 pass      
                     else:
-                        logging.info('No data on sheet 2')
+                        logger.info('No data on sheet 2')
                         break
 
     #Iterates for each workpage, reads and uploads the info to the log file.        
     if wp.active == wp1:
         writeCSV(wp1, "1", ind)
-        logging.debug('Sheet 1: Date, Call Count, "%" of abandons after 30s, "%" FCR, "%" DSAT, "%" CSAT')
+        logger.debug('Sheet 1: Date, Call Count, "%" of abandons after 30s, "%" FCR, "%" DSAT, "%" CSAT')
         readCSV("1")
-        logging.debug('')
+        logger.debug('')
 
     wp.active = wp2 
 
     if wp.active == wp2:
         writeCSV(wp2, "2", ind)
-        logging.debug('Sheet 2: Base Size, Promoters (number and percentage), Passives (number and percentage), Dectractors (number and percentage), AARP total "%" for (NPS"%", Agent"%", DSAT"%"')
+        logger.debug('Sheet 2: Base Size, Promoters (number and percentage), Passives (number and percentage), Dectractors (number and percentage), AARP total "%" for (NPS"%", Agent"%", DSAT"%"')
         readCSV("2")
-        logging.info('Sheet two finished processing')
-        logging.debug('')
+        logger.info('Sheet two finished processing')
+        logger.debug('')
 
 
     

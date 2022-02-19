@@ -50,7 +50,7 @@ def getData(file, ind):
             if wp.active == wp2:
                 index = 0
                 for line,ele in enumerate(csv_reader):
-
+                    print(ele)
                     if line == 0:
                         for item,n in enumerate(ele):
                             if n[0:7] == formatted:
@@ -60,8 +60,8 @@ def getData(file, ind):
                             continue
                         else:
                             try:
-                                if int(ele[index]) > 200:
-                                    logger.info(ele[index] + " Good Score") 
+                                if int(ele[index]) > 200 and line == [2]:
+                                    logger.info("Base Size " + ele[index]) 
                                 else: 
                                     logger.info(ele[index] + " Bad Score")
                             except: 

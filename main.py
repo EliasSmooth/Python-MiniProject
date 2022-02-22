@@ -25,7 +25,6 @@ if files != []:
                 append(formatted, instance)
             except:
                 fileError(files[file])
-            
-
+        
 else: 
     print("No Files")

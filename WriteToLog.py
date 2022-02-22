@@ -3,27 +3,14 @@ from openpyxl import load_workbook
 
 import csv
 import logging
+import sys
 
 from writeCSV import writeCSV
 from monthMatch import monthMatch
-from processChecker import append, check
 from logger import setup_logger, delete_log
+from directoryHandler import worksheetError
 
 def getData(file, ind): 
-    #workbook definitions and workpage definitions
-    wp = load_workbook(file)
-    
-    wp1 = wp["Summary Rolling MoM"] 
-    wp2 = wp["VOC Rolling MoM"]
-
-    #Grabs first three characters in the month and the year, converts the month to a matchable counterpart
-    month = file[32:35]
-    month = month[0].upper() + month[1:]
-    year = file[-9:-5]
-
-    #final iteration of the month added to the year for matching purposes
-    formatted = year + "-" + monthMatch(month)
-
     #deletes the previous log
     delete_log(ind)
 
@@ -32,6 +19,29 @@ def getData(file, ind):
 
     #Logger variable for writing
     logger = logging.getLogger('{}_logger'.format(ind))
+
+    #workbook definitions and workpage definitions
+    wp = load_workbook(file)
+
+    wp1 = ""
+    wp2 = ""
+    
+    try: 
+        wp1 = wp["Summary Rolling MoM"] 
+        wp2 = wp["VOC Rolling MoM"]
+    except:
+        worksheetError(file, ind)
+        logger.info('Missing Worksheet')
+        
+
+    #Grabs first three characters in the month and the year, converts the month to a matchable counterpart
+    month = file[32:35]
+    month = month[0].upper() + month[1:]
+    year = file[-9:-5]
+
+    #final iteration of the month added to the year for matching purposes
+
+    formatted = year + "-" + monthMatch(month)
 
     #reusable function that takes in the number of the worksheet and reads the generated CSV from the function above.
     def readCSV(number):
@@ -94,7 +104,10 @@ def getData(file, ind):
         logger.info('Sheet one finished processing')
         logger.info('')
 
-    wp.active = wp2 
+    try:
+        wp.active = wp2 
+    except: 
+        pass
 
     if wp.active == wp2:
         writeCSV(wp2, "2", ind)

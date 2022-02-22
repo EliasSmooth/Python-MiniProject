@@ -4,7 +4,6 @@ from directoryHandler import fileHandle
 
 fil = open('./Archive/files.txt', 'w')
 
-
 filesize = os.path.getsize("./Archive/files.txt")
 
 def append(formatted, instance): 

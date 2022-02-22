@@ -2,6 +2,7 @@ import glob
 
 from WriteToLog import getData
 from processChecker import append, check
+from directoryHandler import fileError
 
 
 #Retreives all files in the chosen directory that belong to the .xlsx filetype
@@ -15,8 +16,15 @@ if files != []:
         else: 
             instance = files[file] 
             formatted = instance + "\n"
-            getData(files[file], file)
-            append(formatted, instance)
+            
+            num = files[file][-9:-5]
+            try:
+                int(num)
+                getData(files[file], file)
+                append(formatted, instance)
+            except:
+                fileError(files[file])
+            
 
 else: 
     print("No Files")

@@ -10,7 +10,9 @@ def append(formatted, instance):
     #writes filename in doc
     fil.write(formatted)
     fileHandle(instance)
-                
+
+def skip(instance):
+    fileHandle(instance)
 
 def check(file):
     if filesize == 0:

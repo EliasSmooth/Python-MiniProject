@@ -20,5 +20,8 @@ def worksheetError(file, ins):
     """Moves file with worksheet error to error directory"""
     filename = file[9:]
 
-    os.replace('./Assets/{}'.format(filename), './Error/{}'.format(filename))
-    print('Worksheet Error on file {}'.format(ins))
+    try: 
+        os.replace('./Assets/{}'.format(filename), './Error/{}'.format(filename))
+        print('ERROR: Worksheet Error on file {}'.format(ins))
+    except: 
+        pass

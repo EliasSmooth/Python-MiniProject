@@ -3,7 +3,6 @@ from openpyxl import load_workbook
 
 import csv
 import logging
-import sys
 
 from writeCSV import writeCSV
 from monthMatch import monthMatch
@@ -53,6 +52,7 @@ def getData(file, ind):
                     if line[0][0:7] == formatted: 
                         for x in line:
                             if x != '' or 0:
+
                                 logger.info(x)
                     
             if wp.active == wp2:
